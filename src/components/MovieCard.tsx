@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Movie, thumbnailUrl } from "@/lib/movies";
+import { Movie, movieThumbnail } from "@/lib/movies";
 
 export default function MovieCard({ movie }: { movie: Movie }) {
   return (
@@ -10,7 +10,7 @@ export default function MovieCard({ movie }: { movie: Movie }) {
       <div className="relative aspect-[2/3] overflow-hidden rounded-lg bg-neutral-800">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src={thumbnailUrl(movie)}
+          src={movieThumbnail(movie)}
           alt={movie.title}
           loading="lazy"
           className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"

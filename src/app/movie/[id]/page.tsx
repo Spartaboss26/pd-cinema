@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import MovieCard from "@/components/MovieCard";
-import { getMovie, getMovies, getByGenre, thumbnailUrl } from "@/lib/movies";
+import { getMovie, getMovies, getByGenre, movieThumbnail } from "@/lib/movies";
 
 export default async function MoviePage({
   params,
@@ -28,7 +28,7 @@ export default async function MoviePage({
           <div className="aspect-[2/3] overflow-hidden rounded-lg bg-neutral-800">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={thumbnailUrl(movie)}
+              src={movieThumbnail(movie)}
               alt={movie.title}
               className="h-full w-full object-cover"
             />

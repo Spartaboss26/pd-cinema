@@ -1,11 +1,19 @@
 import Link from "next/link";
 import GenreRow from "@/components/GenreRow";
-import { getMovies, getGenres, getByGenre, thumbnailUrl } from "@/lib/movies";
+import ShowCard from "@/components/ShowCard";
+import {
+  getMovies,
+  getGenres,
+  getByGenre,
+  getShows,
+  movieThumbnail,
+} from "@/lib/movies";
 
 export default function Home() {
   const movies = getMovies();
   const genres = getGenres();
   const featured = movies[0];
+  const shows = getShows();
 
   return (
     <div>
@@ -14,7 +22,7 @@ export default function Home() {
         <section className="relative h-[60vh] min-h-[420px] flex items-end overflow-hidden">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={thumbnailUrl(featured)}
+            src={movieThumbnail(featured)}
             alt=""
             className="absolute inset-0 h-full w-full object-cover opacity-30"
           />
@@ -29,9 +37,9 @@ export default function Home() {
               free forever.
             </h1>
             <p className="mt-4 text-neutral-300 max-w-xl">
-              {movies.length} hand-picked public domain films — horror, noir,
-              sci-fi, silent classics and more. Stream instantly, no account
-              needed.
+              {movies.length} films and {shows.length} classic TV shows —
+              horror, noir, sci-fi, silent classics and more. Stream instantly,
+              no account needed.
             </p>
             <div className="mt-6 flex gap-4">
               <Link
@@ -41,6 +49,23 @@ export default function Home() {
                 Start watching
               </Link>
             </div>
+          </div>
+        </section>
+      )}
+
+      {/* TV shows row */}
+      {shows.length > 0 && (
+        <section className="mt-10">
+          <div className="flex items-center justify-between px-4 sm:px-8 mb-4">
+            <h2 className="text-xl font-bold">Classic TV</h2>
+            <Link href="/shows" className="text-sm text-red-400 hover:underline">
+              View all →
+            </Link>
+          </div>
+          <div className="row-scroll flex gap-4 overflow-x-auto px-4 sm:px-8 pb-2 snap-x">
+            {shows.map((s) => (
+              <ShowCard key={s.id} show={s} />
+            ))}
           </div>
         </section>
       )}

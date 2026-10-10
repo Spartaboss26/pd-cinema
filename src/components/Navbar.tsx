@@ -13,7 +13,10 @@ export default function Navbar() {
             Home
           </Link>
           <Link href="/browse" className="hover:text-red-400">
-            Browse
+            Movies
+          </Link>
+          <Link href="/shows" className="hover:text-red-400">
+            TV Shows
           </Link>
         </div>
       </nav>

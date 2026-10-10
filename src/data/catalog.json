@@ -1,502 +1,3084 @@
-[
-  {
-    "id": "nosferatu-1922",
-    "title": "Nosferatu",
-    "year": 1922,
-    "genre": "Horror",
-    "director": "F. W. Murnau",
-    "description": "The unauthorized Dracula adaptation that courts tried to destroy. Max Schreck's Count Orlok is pure nightmare fuel.",
-    "archiveId": "NosferatuLeVampire",
-    "embedUrl": "https://archive.org/embed/NosferatuLeVampire"
-  },
-  {
-    "id": "the-phantom-of-the-opera-1925",
-    "title": "The Phantom of the Opera",
-    "year": 1925,
-    "genre": "Horror",
-    "director": "Rupert Julian",
-    "description": "Lon Chaney's unmasked Phantom shocked 1925 audiences in this silent Gothic masterpiece.",
-    "archiveId": "ThePhantomOfTheOpera1925NewYorkGeneralReleasePrint_620",
-    "embedUrl": "https://archive.org/embed/ThePhantomOfTheOpera1925NewYorkGeneralReleasePrint_620"
-  },
-  {
-    "id": "white-zombie-1932",
-    "title": "White Zombie",
-    "year": 1932,
-    "genre": "Horror",
-    "director": "Victor Halperin",
-    "description": "Bela Lugosi commands an army of the undead on a Haitian sugar plantation in the first zombie feature ever made.",
-    "archiveId": "WhiteZombie1932",
-    "embedUrl": "https://archive.org/embed/WhiteZombie1932"
-  },
-  {
-    "id": "house-on-haunted-hill-1959",
-    "title": "House on Haunted Hill",
-    "year": 1959,
-    "genre": "Horror",
-    "director": "William Castle",
-    "description": "A millionaire offers $10,000 to anyone who survives one night in a haunted mansion. Vincent Price at his most devilish.",
-    "archiveId": "HouseOnHauntedHillWidescreenVideoUpgrade",
-    "embedUrl": "https://archive.org/embed/HouseOnHauntedHillWidescreenVideoUpgrade"
-  },
-  {
-    "id": "the-little-shop-of-horrors-1960",
-    "title": "The Little Shop of Horrors",
-    "year": 1960,
-    "genre": "Horror",
-    "director": "Roger Corman",
-    "description": "A hapless florist cultivates a man-eating plant with a taste for blood. The original horror-comedy classic.",
-    "archiveId": "Little_ShopOf_Horrors.avi",
-    "embedUrl": "https://archive.org/embed/Little_ShopOf_Horrors.avi"
-  },
-  {
-    "id": "carnival-of-souls-1962",
-    "title": "Carnival of Souls",
-    "year": 1962,
-    "genre": "Horror",
-    "director": "Herk Harvey",
-    "description": "A church organist survives a car crash, then is drawn to an abandoned pavilion by pale, silent strangers. A haunting indie landmark.",
-    "archiveId": "CarnivalOfSoulsVideoQualityUpgrade",
-    "embedUrl": "https://archive.org/embed/CarnivalOfSoulsVideoQualityUpgrade"
-  },
-  {
-    "id": "the-brain-that-wouldn-t-die-1962",
-    "title": "The Brain That Wouldn't Die",
-    "year": 1962,
-    "genre": "Horror",
-    "director": "Joseph Green",
-    "description": "A surgeon keeps his fiancee's severed head alive while hunting for a replacement body. Gruesome, sleazy, unforgettable.",
-    "archiveId": "the_brain_that_wouldnt_die",
-    "embedUrl": "https://archive.org/embed/the_brain_that_wouldnt_die"
-  },
-  {
-    "id": "dementia-13-1963",
-    "title": "Dementia 13",
-    "year": 1963,
-    "genre": "Horror",
-    "director": "Francis Ford Coppola",
-    "description": "Coppola's early slasher: a scheming widow, an Irish castle, and an axe murderer picking off the heirs one by one.",
-    "archiveId": "Dementia13withSpanishSubtitles",
-    "embedUrl": "https://archive.org/embed/Dementia13withSpanishSubtitles"
-  },
-  {
-    "id": "the-terror-1963",
-    "title": "The Terror",
-    "year": 1963,
-    "genre": "Horror",
-    "director": "Roger Corman",
-    "description": "Jack Nicholson pursues a mysterious woman along a foggy coastline to a baron's crumbling castle.",
-    "archiveId": "RogerCormansTheTerror720p",
-    "embedUrl": "https://archive.org/embed/RogerCormansTheTerror720p"
-  },
-  {
-    "id": "the-last-man-on-earth-1964",
-    "title": "The Last Man on Earth",
-    "year": 1964,
-    "genre": "Horror",
-    "director": "Ubaldo Ragona",
-    "description": "Vincent Price plays the last uninfected man in a world of the walking dead, in the first screen version of 'I Am Legend.'",
-    "archiveId": "TheLastManOnEarth_72",
-    "embedUrl": "https://archive.org/embed/TheLastManOnEarth_72"
-  },
-  {
-    "id": "manos-the-hands-of-fate-1966",
-    "title": "Manos: The Hands of Fate",
-    "year": 1966,
-    "genre": "Horror",
-    "director": "Harold P. Warren",
-    "description": "A family stumbles into a desert cult ruled by the sinister Master. Famously one of the worst - and most beloved - films ever made.",
-    "archiveId": "manos_the_hands_of_fate",
-    "embedUrl": "https://archive.org/embed/manos_the_hands_of_fate"
-  },
-  {
-    "id": "night-of-the-living-dead-1968",
-    "title": "Night of the Living Dead",
-    "year": 1968,
-    "genre": "Horror",
-    "director": "George A. Romero",
-    "description": "Strangers barricade themselves in a farmhouse as the dead walk. The film that invented the modern zombie.",
-    "archiveId": "NightOfTheLivingDead1968-Restored",
-    "embedUrl": "https://archive.org/embed/NightOfTheLivingDead1968-Restored"
-  },
-  {
-    "id": "the-39-steps-1935",
-    "title": "The 39 Steps",
-    "year": 1935,
-    "genre": "Noir",
-    "director": "Alfred Hitchcock",
-    "description": "Hitchcock's wrong-man classic: a fugitive handcuffed to a stranger races to clear his name.",
-    "archiveId": "the_39_steps_1935",
-    "embedUrl": "https://archive.org/embed/the_39_steps_1935"
-  },
-  {
-    "id": "detour-1945",
-    "title": "Detour",
-    "year": 1945,
-    "genre": "Noir",
-    "director": "Edgar G. Ulmer",
-    "description": "A hitchhiker's bad luck spirals into doom in the bleakest film noir ever made, shot for almost nothing.",
-    "archiveId": "detour1945HD",
-    "embedUrl": "https://archive.org/embed/detour1945HD"
-  },
-  {
-    "id": "scarlet-street-1945",
-    "title": "Scarlet Street",
-    "year": 1945,
-    "genre": "Noir",
-    "director": "Fritz Lang",
-    "description": "A mild-mannered painter falls for a femme fatale who bleeds him dry. Lang at his cruelest.",
-    "archiveId": "ScarletStreet",
-    "embedUrl": "https://archive.org/embed/ScarletStreet"
-  },
-  {
-    "id": "the-stranger-1946",
-    "title": "The Stranger",
-    "year": 1946,
-    "genre": "Noir",
-    "director": "Orson Welles",
-    "description": "Welles hunts a Nazi war criminal hiding as a small-town professor, with Edward G. Robinson closing in.",
-    "archiveId": "TheStranger_0",
-    "embedUrl": "https://archive.org/embed/TheStranger_0"
-  },
-  {
-    "id": "the-red-house-1947",
-    "title": "The Red House",
-    "year": 1947,
-    "genre": "Noir",
-    "director": "Delmer Daves",
-    "description": "A farmhand's curiosity about the forbidden woods beyond the farm awakens a long-buried secret.",
-    "archiveId": "TheRedHouse",
-    "embedUrl": "https://archive.org/embed/TheRedHouse"
-  },
-  {
-    "id": "d-o-a-1949",
-    "title": "D.O.A.",
-    "year": 1949,
-    "genre": "Noir",
-    "director": "Rudolph Mat\u00e9",
-    "description": "A man walks into a police station to report his own murder - then has 48 hours to find his killer.",
-    "archiveId": "thoseguysontheradio_gmail_Doa",
-    "embedUrl": "https://archive.org/embed/thoseguysontheradio_gmail_Doa"
-  },
-  {
-    "id": "the-hitch-hiker-1953",
-    "title": "The Hitch-Hiker",
-    "year": 1953,
-    "genre": "Noir",
-    "director": "Ida Lupino",
-    "description": "Two friends pick up a hitchhiker who turns out to be a murderer. The only classic noir directed by a woman.",
-    "archiveId": "Hitch_Hiker",
-    "embedUrl": "https://archive.org/embed/Hitch_Hiker"
-  },
-  {
-    "id": "suddenly-1954",
-    "title": "Suddenly",
-    "year": 1954,
-    "genre": "Noir",
-    "director": "Lewis Allen",
-    "description": "Frank Sinatra plays a cold-blooded assassin waiting in a small town for the president's train.",
-    "archiveId": "ecatma-Old_Time_Movie_Show_-_Suddenly_1954",
-    "embedUrl": "https://archive.org/embed/ecatma-Old_Time_Movie_Show_-_Suddenly_1954"
-  },
-  {
-    "id": "metropolis-1927",
-    "title": "Metropolis",
-    "year": 1927,
-    "genre": "Sci-Fi",
-    "director": "Fritz Lang",
-    "description": "A visionary silent epic of a divided future city - the most influential science-fiction film ever made.",
-    "archiveId": "metropolis-lang",
-    "embedUrl": "https://archive.org/embed/metropolis-lang"
-  },
-  {
-    "id": "rocketship-x-m-1950",
-    "title": "Rocketship X-M",
-    "year": 1950,
-    "genre": "Sci-Fi",
-    "director": "Kurt Neumann",
-    "description": "A rushed moon mission goes wrong and lands on Mars instead. The film that launched 1950s sci-fi cinema.",
-    "archiveId": "rocketship-x-m-1950",
-    "embedUrl": "https://archive.org/embed/rocketship-x-m-1950"
-  },
-  {
-    "id": "the-man-from-planet-x-1951",
-    "title": "The Man from Planet X",
-    "year": 1951,
-    "genre": "Sci-Fi",
-    "director": "Edgar G. Ulmer",
-    "description": "A visitor from a dying world lands in Scotland with unclear intentions.",
-    "archiveId": "man-from-planet-x",
-    "embedUrl": "https://archive.org/embed/man-from-planet-x"
-  },
-  {
-    "id": "it-the-terror-from-beyond-space-1958",
-    "title": "It! The Terror from Beyond Space",
-    "year": 1958,
-    "genre": "Sci-Fi",
-    "director": "Edward L. Cahn",
-    "description": "A Mars rescue crew brings something deadly back to Earth. The movie that inspired 'Alien.'",
-    "archiveId": "it-the-terror-from-beyond-space-colorized",
-    "embedUrl": "https://archive.org/embed/it-the-terror-from-beyond-space-colorized"
-  },
-  {
-    "id": "plan-9-from-outer-space-1959",
-    "title": "Plan 9 from Outer Space",
-    "year": 1959,
-    "genre": "Sci-Fi",
-    "director": "Ed Wood",
-    "description": "Aliens resurrect the dead to stop humanity's weapons research. The most entertaining bad movie ever made.",
-    "archiveId": "774-plan-9-from-outer-space",
-    "embedUrl": "https://archive.org/embed/774-plan-9-from-outer-space"
-  },
-  {
-    "id": "teenagers-from-outer-space-1959",
-    "title": "Teenagers from Outer Space",
-    "year": 1959,
-    "genre": "Sci-Fi",
-    "director": "Tom Graeff",
-    "description": "A young alien rebels against his invasion fleet to save Earth - and a small-town girl.",
-    "archiveId": "teenagers_from_outerspace",
-    "embedUrl": "https://archive.org/embed/teenagers_from_outerspace"
-  },
-  {
-    "id": "the-killer-shrews-1959",
-    "title": "The Killer Shrews",
-    "year": 1959,
-    "genre": "Sci-Fi",
-    "director": "Ray Kellogg",
-    "description": "Giant mutant shrews trap survivors on an isolated island. Low-budget creature-feature fun.",
-    "archiveId": "The_Killer_Shrews_1959",
-    "embedUrl": "https://archive.org/embed/The_Killer_Shrews_1959"
-  },
-  {
-    "id": "the-giant-gila-monster-1959",
-    "title": "The Giant Gila Monster",
-    "year": 1959,
-    "genre": "Sci-Fi",
-    "director": "Ray Kellogg",
-    "description": "A small Texas town faces a gigantic lizard with a taste for hot rods and teenagers.",
-    "archiveId": "TheGiantGilaMonster",
-    "embedUrl": "https://archive.org/embed/TheGiantGilaMonster"
-  },
-  {
-    "id": "one-week-1920",
-    "title": "One Week",
-    "year": 1920,
-    "genre": "Comedy",
-    "director": "Buster Keaton",
-    "description": "Newlyweds build a DIY house from mislabeled parts in Keaton's breakout short.",
-    "archiveId": "silent-one-week",
-    "embedUrl": "https://archive.org/embed/silent-one-week"
-  },
-  {
-    "id": "the-kid-1921",
-    "title": "The Kid",
-    "year": 1921,
-    "genre": "Comedy",
-    "director": "Charlie Chaplin",
-    "description": "The Tramp raises an abandoned child in Chaplin's first masterpiece.",
-    "archiveId": "the-kid-1921_202609",
-    "embedUrl": "https://archive.org/embed/the-kid-1921_202609"
-  },
-  {
-    "id": "sherlock-jr-1924",
-    "title": "Sherlock Jr.",
-    "year": 1924,
-    "genre": "Comedy",
-    "director": "Buster Keaton",
-    "description": "A projectionist dreams himself into the movie screen to become a great detective.",
-    "archiveId": "MyMovie_20190318",
-    "embedUrl": "https://archive.org/embed/MyMovie_20190318"
-  },
-  {
-    "id": "the-general-1926",
-    "title": "The General",
-    "year": 1926,
-    "genre": "Comedy",
-    "director": "Buster Keaton",
-    "description": "Keaton's Civil War train chase - the greatest silent comedy ever made.",
-    "archiveId": "Buster_Keaton_The_General_1927",
-    "embedUrl": "https://archive.org/embed/Buster_Keaton_The_General_1927"
-  },
-  {
-    "id": "his-girl-friday-1940",
-    "title": "His Girl Friday",
-    "year": 1940,
-    "genre": "Comedy",
-    "director": "Howard Hawks",
-    "description": "The fastest-talking comedy ever: a scheming editor tries to win back his star-reporter ex-wife.",
-    "archiveId": "HisGirlFriday1940",
-    "embedUrl": "https://archive.org/embed/HisGirlFriday1940"
-  },
-  {
-    "id": "the-sin-of-harold-diddlebock-1947",
-    "title": "The Sin of Harold Diddlebock",
-    "year": 1947,
-    "genre": "Comedy",
-    "director": "Preston Sturges",
-    "description": "Harold Lloyd's comeback: a mild clerk goes gloriously wild after a single drink.",
-    "archiveId": "harolddiddlebock",
-    "embedUrl": "https://archive.org/embed/harolddiddlebock"
-  },
-  {
-    "id": "beat-the-devil-1953",
-    "title": "Beat the Devil",
-    "year": 1953,
-    "genre": "Comedy",
-    "director": "John Huston",
-    "description": "Bogart leads a gang of con artists chasing uranium in this sly, improvised farce.",
-    "archiveId": "BeatTheDevil1953",
-    "embedUrl": "https://archive.org/embed/BeatTheDevil1953"
-  },
-  {
-    "id": "charade-1963",
-    "title": "Charade",
-    "year": 1963,
-    "genre": "Comedy",
-    "director": "Stanley Donen",
-    "description": "Audrey Hepburn and Cary Grant dodge killers across Paris in the most charming thriller-comedy ever made.",
-    "archiveId": "turner_video_341",
-    "embedUrl": "https://archive.org/embed/turner_video_341"
-  },
-  {
-    "id": "the-phantom-empire-1935",
-    "title": "The Phantom Empire",
-    "year": 1935,
-    "genre": "Western",
-    "director": "Otto Brower",
-    "description": "Singing cowboy Gene Autry discovers an underground sci-fi kingdom beneath his ranch. A gloriously weird serial.",
-    "archiveId": "The_Phantom_Empire_1935",
-    "embedUrl": "https://archive.org/embed/The_Phantom_Empire_1935"
-  },
-  {
-    "id": "the-painted-stallion-1937",
-    "title": "The Painted Stallion",
-    "year": 1937,
-    "genre": "Western",
-    "director": "Alan James",
-    "description": "A wagon train, a stolen payroll, and a painted horse in this classic Republic serial.",
-    "archiveId": "the-painted-stallionthe-painted-stallion",
-    "embedUrl": "https://archive.org/embed/the-painted-stallionthe-painted-stallion"
-  },
-  {
-    "id": "billy-the-kid-returns-1938",
-    "title": "Billy the Kid Returns",
-    "year": 1938,
-    "genre": "Western",
-    "director": "Joseph Kane",
-    "description": "Roy Rogers stars as the legendary outlaw in this action-packed B-western.",
-    "archiveId": "BillytheKidReturns",
-    "embedUrl": "https://archive.org/embed/BillytheKidReturns"
-  },
-  {
-    "id": "jesse-james-at-bay-1941",
-    "title": "Jesse James at Bay",
-    "year": 1941,
-    "genre": "Western",
-    "director": "Joseph Kane",
-    "description": "Roy Rogers doubles as Jesse James and the lookalike hired to impersonate him.",
-    "archiveId": "Jesse_James_at_Bay_1941",
-    "embedUrl": "https://archive.org/embed/Jesse_James_at_Bay_1941"
-  },
-  {
-    "id": "angel-and-the-badman-1947",
-    "title": "Angel and the Badman",
-    "year": 1947,
-    "genre": "Western",
-    "director": "James Edward Grant",
-    "description": "John Wayne's wounded gunfighter is nursed back to health by a Quaker family - and rethinks his life.",
-    "archiveId": "angel_and_the_badman",
-    "embedUrl": "https://archive.org/embed/angel_and_the_badman"
-  },
-  {
-    "id": "mclintock-1963",
-    "title": "McLintock!",
-    "year": 1963,
-    "genre": "Western",
-    "director": "Andrew V. McLaglen",
-    "description": "John Wayne brawls and blusters through cattle country in this rowdy comedy-western.",
-    "archiveId": "mclintok_widescreen",
-    "embedUrl": "https://archive.org/embed/mclintok_widescreen"
-  },
-  {
-    "id": "intolerance-1916",
-    "title": "Intolerance",
-    "year": 1916,
-    "genre": "Silent",
-    "director": "D. W. Griffith",
-    "description": "Four stories across the centuries, one theme: humanity's cruelty. Cinema's first mega-spectacle.",
-    "archiveId": "Intolerance1916",
-    "embedUrl": "https://archive.org/embed/Intolerance1916"
-  },
-  {
-    "id": "broken-blossoms-1919",
-    "title": "Broken Blossoms",
-    "year": 1919,
-    "genre": "Silent",
-    "director": "D. W. Griffith",
-    "description": "A gentle immigrant shelters an abused girl in Griffith's tender, tragic melodrama.",
-    "archiveId": "brokenblossoms1919",
-    "embedUrl": "https://archive.org/embed/brokenblossoms1919"
-  },
-  {
-    "id": "the-cabinet-of-dr-caligari-1920",
-    "title": "The Cabinet of Dr. Caligari",
-    "year": 1920,
-    "genre": "Silent",
-    "director": "Robert Wiene",
-    "description": "A hypnotist's sleepwalker may be a murderer in the landmark of German Expressionism.",
-    "archiveId": "DasKabinettdesDoktorCaligariTheCabinetofDrCaligari",
-    "embedUrl": "https://archive.org/embed/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari"
-  },
-  {
-    "id": "the-mark-of-zorro-1920",
-    "title": "The Mark of Zorro",
-    "year": 1920,
-    "genre": "Silent",
-    "director": "Fred Niblo",
-    "description": "Douglas Fairbanks swashbuckles through old California in the original masked-hero adventure.",
-    "archiveId": "the-mark-of-zorro",
-    "embedUrl": "https://archive.org/embed/the-mark-of-zorro"
-  },
-  {
-    "id": "the-hunchback-of-notre-dame-1923",
-    "title": "The Hunchback of Notre Dame",
-    "year": 1923,
-    "genre": "Silent",
-    "director": "Wallace Worsley",
-    "description": "Lon Chaney's Quasimodo swings through this lavish silent epic.",
-    "archiveId": "The_Hunchback_of_Notre_Dame",
-    "embedUrl": "https://archive.org/embed/The_Hunchback_of_Notre_Dame"
-  },
-  {
-    "id": "battleship-potemkin-1925",
-    "title": "Battleship Potemkin",
-    "year": 1925,
-    "genre": "Silent",
-    "director": "Sergei Eisenstein",
-    "description": "Sailors mutiny against tyranny; the Odessa Steps sequence changed cinema forever.",
-    "archiveId": "BattleshipPotemkin",
-    "embedUrl": "https://archive.org/embed/BattleshipPotemkin"
-  },
-  {
-    "id": "the-passion-of-joan-of-arc-1928",
-    "title": "The Passion of Joan of Arc",
-    "year": 1928,
-    "genre": "Silent",
-    "director": "Carl Theodor Dreyer",
-    "description": "Falconetti's face in close-up carries one of the most devastating performances ever filmed.",
-    "archiveId": "the-passion-of-joan-of-arc",
-    "embedUrl": "https://archive.org/embed/the-passion-of-joan-of-arc"
-  },
-  {
-    "id": "reefer-madness-1936",
-    "title": "Reefer Madness",
-    "year": 1936,
-    "genre": "Drama",
-    "director": "Louis J. Gasnier",
-    "description": "The infamous anti-marijuana scare film - now a beloved camp classic.",
-    "archiveId": "reefer_madness1938",
-    "embedUrl": "https://archive.org/embed/reefer_madness1938"
-  }
-]
+{
+  "movies": [
+    {
+      "id": "nosferatu-1922",
+      "title": "Nosferatu",
+      "year": 1922,
+      "genre": "Horror",
+      "director": "F. W. Murnau",
+      "description": "The unauthorized Dracula adaptation that courts tried to destroy. Max Schreck's Count Orlok is pure nightmare fuel.",
+      "archiveId": "NosferatuLeVampire",
+      "embedUrl": "https://archive.org/embed/NosferatuLeVampire"
+    },
+    {
+      "id": "the-phantom-of-the-opera-1925",
+      "title": "The Phantom of the Opera",
+      "year": 1925,
+      "genre": "Horror",
+      "director": "Rupert Julian",
+      "description": "Lon Chaney's unmasked Phantom shocked 1925 audiences in this silent Gothic masterpiece.",
+      "archiveId": "ThePhantomOfTheOpera1925NewYorkGeneralReleasePrint_620",
+      "embedUrl": "https://archive.org/embed/ThePhantomOfTheOpera1925NewYorkGeneralReleasePrint_620"
+    },
+    {
+      "id": "white-zombie-1932",
+      "title": "White Zombie",
+      "year": 1932,
+      "genre": "Horror",
+      "director": "Victor Halperin",
+      "description": "Bela Lugosi commands an army of the undead on a Haitian sugar plantation in the first zombie feature ever made.",
+      "archiveId": "WhiteZombie1932",
+      "embedUrl": "https://archive.org/embed/WhiteZombie1932"
+    },
+    {
+      "id": "house-on-haunted-hill-1959",
+      "title": "House on Haunted Hill",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "William Castle",
+      "description": "A millionaire offers $10,000 to anyone who survives one night in a haunted mansion. Vincent Price at his most devilish.",
+      "archiveId": "HouseOnHauntedHillWidescreenVideoUpgrade",
+      "embedUrl": "https://archive.org/embed/HouseOnHauntedHillWidescreenVideoUpgrade"
+    },
+    {
+      "id": "the-little-shop-of-horrors-1960",
+      "title": "The Little Shop of Horrors",
+      "year": 1960,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "A hapless florist cultivates a man-eating plant with a taste for blood. The original horror-comedy classic.",
+      "archiveId": "Little_ShopOf_Horrors.avi",
+      "embedUrl": "https://archive.org/embed/Little_ShopOf_Horrors.avi"
+    },
+    {
+      "id": "carnival-of-souls-1962",
+      "title": "Carnival of Souls",
+      "year": 1962,
+      "genre": "Horror",
+      "director": "Herk Harvey",
+      "description": "A church organist survives a car crash, then is drawn to an abandoned pavilion by pale, silent strangers. A haunting indie landmark.",
+      "archiveId": "CarnivalOfSoulsVideoQualityUpgrade",
+      "embedUrl": "https://archive.org/embed/CarnivalOfSoulsVideoQualityUpgrade"
+    },
+    {
+      "id": "the-brain-that-wouldn-t-die-1962",
+      "title": "The Brain That Wouldn't Die",
+      "year": 1962,
+      "genre": "Horror",
+      "director": "Joseph Green",
+      "description": "A surgeon keeps his fiancee's severed head alive while hunting for a replacement body. Gruesome, sleazy, unforgettable.",
+      "archiveId": "the_brain_that_wouldnt_die",
+      "embedUrl": "https://archive.org/embed/the_brain_that_wouldnt_die"
+    },
+    {
+      "id": "dementia-13-1963",
+      "title": "Dementia 13",
+      "year": 1963,
+      "genre": "Horror",
+      "director": "Francis Ford Coppola",
+      "description": "Coppola's early slasher: a scheming widow, an Irish castle, and an axe murderer picking off the heirs one by one.",
+      "archiveId": "Dementia13withSpanishSubtitles",
+      "embedUrl": "https://archive.org/embed/Dementia13withSpanishSubtitles"
+    },
+    {
+      "id": "the-terror-1963",
+      "title": "The Terror",
+      "year": 1963,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "Jack Nicholson pursues a mysterious woman along a foggy coastline to a baron's crumbling castle.",
+      "archiveId": "RogerCormansTheTerror720p",
+      "embedUrl": "https://archive.org/embed/RogerCormansTheTerror720p"
+    },
+    {
+      "id": "the-last-man-on-earth-1964",
+      "title": "The Last Man on Earth",
+      "year": 1964,
+      "genre": "Horror",
+      "director": "Ubaldo Ragona",
+      "description": "Vincent Price plays the last uninfected man in a world of the walking dead, in the first screen version of 'I Am Legend.'",
+      "archiveId": "TheLastManOnEarth_72",
+      "embedUrl": "https://archive.org/embed/TheLastManOnEarth_72"
+    },
+    {
+      "id": "manos-the-hands-of-fate-1966",
+      "title": "Manos: The Hands of Fate",
+      "year": 1966,
+      "genre": "Horror",
+      "director": "Harold P. Warren",
+      "description": "A family stumbles into a desert cult ruled by the sinister Master. Famously one of the worst - and most beloved - films ever made.",
+      "archiveId": "manos_the_hands_of_fate",
+      "embedUrl": "https://archive.org/embed/manos_the_hands_of_fate"
+    },
+    {
+      "id": "night-of-the-living-dead-1968",
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "genre": "Horror",
+      "director": "George A. Romero",
+      "description": "Strangers barricade themselves in a farmhouse as the dead walk. The film that invented the modern zombie.",
+      "archiveId": "NightOfTheLivingDead1968-Restored",
+      "embedUrl": "https://archive.org/embed/NightOfTheLivingDead1968-Restored"
+    },
+    {
+      "id": "the-39-steps-1935",
+      "title": "The 39 Steps",
+      "year": 1935,
+      "genre": "Noir",
+      "director": "Alfred Hitchcock",
+      "description": "Hitchcock's wrong-man classic: a fugitive handcuffed to a stranger races to clear his name.",
+      "archiveId": "the_39_steps_1935",
+      "embedUrl": "https://archive.org/embed/the_39_steps_1935"
+    },
+    {
+      "id": "detour-1945",
+      "title": "Detour",
+      "year": 1945,
+      "genre": "Noir",
+      "director": "Edgar G. Ulmer",
+      "description": "A hitchhiker's bad luck spirals into doom in the bleakest film noir ever made, shot for almost nothing.",
+      "archiveId": "detour1945HD",
+      "embedUrl": "https://archive.org/embed/detour1945HD"
+    },
+    {
+      "id": "scarlet-street-1945",
+      "title": "Scarlet Street",
+      "year": 1945,
+      "genre": "Noir",
+      "director": "Fritz Lang",
+      "description": "A mild-mannered painter falls for a femme fatale who bleeds him dry. Lang at his cruelest.",
+      "archiveId": "ScarletStreet",
+      "embedUrl": "https://archive.org/embed/ScarletStreet"
+    },
+    {
+      "id": "the-stranger-1946",
+      "title": "The Stranger",
+      "year": 1946,
+      "genre": "Noir",
+      "director": "Orson Welles",
+      "description": "Welles hunts a Nazi war criminal hiding as a small-town professor, with Edward G. Robinson closing in.",
+      "archiveId": "TheStranger_0",
+      "embedUrl": "https://archive.org/embed/TheStranger_0"
+    },
+    {
+      "id": "the-red-house-1947",
+      "title": "The Red House",
+      "year": 1947,
+      "genre": "Noir",
+      "director": "Delmer Daves",
+      "description": "A farmhand's curiosity about the forbidden woods beyond the farm awakens a long-buried secret.",
+      "archiveId": "TheRedHouse",
+      "embedUrl": "https://archive.org/embed/TheRedHouse"
+    },
+    {
+      "id": "d-o-a-1949",
+      "title": "D.O.A.",
+      "year": 1949,
+      "genre": "Noir",
+      "director": "Rudolph Mat\u00e9",
+      "description": "A man walks into a police station to report his own murder - then has 48 hours to find his killer.",
+      "archiveId": "thoseguysontheradio_gmail_Doa",
+      "embedUrl": "https://archive.org/embed/thoseguysontheradio_gmail_Doa"
+    },
+    {
+      "id": "the-hitch-hiker-1953",
+      "title": "The Hitch-Hiker",
+      "year": 1953,
+      "genre": "Noir",
+      "director": "Ida Lupino",
+      "description": "Two friends pick up a hitchhiker who turns out to be a murderer. The only classic noir directed by a woman.",
+      "archiveId": "Hitch_Hiker",
+      "embedUrl": "https://archive.org/embed/Hitch_Hiker"
+    },
+    {
+      "id": "suddenly-1954",
+      "title": "Suddenly",
+      "year": 1954,
+      "genre": "Noir",
+      "director": "Lewis Allen",
+      "description": "Frank Sinatra plays a cold-blooded assassin waiting in a small town for the president's train.",
+      "archiveId": "ecatma-Old_Time_Movie_Show_-_Suddenly_1954",
+      "embedUrl": "https://archive.org/embed/ecatma-Old_Time_Movie_Show_-_Suddenly_1954"
+    },
+    {
+      "id": "metropolis-1927",
+      "title": "Metropolis",
+      "year": 1927,
+      "genre": "Sci-Fi",
+      "director": "Fritz Lang",
+      "description": "A visionary silent epic of a divided future city - the most influential science-fiction film ever made.",
+      "archiveId": "metropolis-lang",
+      "embedUrl": "https://archive.org/embed/metropolis-lang"
+    },
+    {
+      "id": "rocketship-x-m-1950",
+      "title": "Rocketship X-M",
+      "year": 1950,
+      "genre": "Sci-Fi",
+      "director": "Kurt Neumann",
+      "description": "A rushed moon mission goes wrong and lands on Mars instead. The film that launched 1950s sci-fi cinema.",
+      "archiveId": "rocketship-x-m-1950",
+      "embedUrl": "https://archive.org/embed/rocketship-x-m-1950"
+    },
+    {
+      "id": "the-man-from-planet-x-1951",
+      "title": "The Man from Planet X",
+      "year": 1951,
+      "genre": "Sci-Fi",
+      "director": "Edgar G. Ulmer",
+      "description": "A visitor from a dying world lands in Scotland with unclear intentions.",
+      "archiveId": "man-from-planet-x",
+      "embedUrl": "https://archive.org/embed/man-from-planet-x"
+    },
+    {
+      "id": "it-the-terror-from-beyond-space-1958",
+      "title": "It! The Terror from Beyond Space",
+      "year": 1958,
+      "genre": "Sci-Fi",
+      "director": "Edward L. Cahn",
+      "description": "A Mars rescue crew brings something deadly back to Earth. The movie that inspired 'Alien.'",
+      "archiveId": "it-the-terror-from-beyond-space-colorized",
+      "embedUrl": "https://archive.org/embed/it-the-terror-from-beyond-space-colorized"
+    },
+    {
+      "id": "plan-9-from-outer-space-1959",
+      "title": "Plan 9 from Outer Space",
+      "year": 1959,
+      "genre": "Sci-Fi",
+      "director": "Ed Wood",
+      "description": "Aliens resurrect the dead to stop humanity's weapons research. The most entertaining bad movie ever made.",
+      "archiveId": "774-plan-9-from-outer-space",
+      "embedUrl": "https://archive.org/embed/774-plan-9-from-outer-space"
+    },
+    {
+      "id": "teenagers-from-outer-space-1959",
+      "title": "Teenagers from Outer Space",
+      "year": 1959,
+      "genre": "Sci-Fi",
+      "director": "Tom Graeff",
+      "description": "A young alien rebels against his invasion fleet to save Earth - and a small-town girl.",
+      "archiveId": "teenagers_from_outerspace",
+      "embedUrl": "https://archive.org/embed/teenagers_from_outerspace"
+    },
+    {
+      "id": "the-killer-shrews-1959",
+      "title": "The Killer Shrews",
+      "year": 1959,
+      "genre": "Sci-Fi",
+      "director": "Ray Kellogg",
+      "description": "Giant mutant shrews trap survivors on an isolated island. Low-budget creature-feature fun.",
+      "archiveId": "The_Killer_Shrews_1959",
+      "embedUrl": "https://archive.org/embed/The_Killer_Shrews_1959"
+    },
+    {
+      "id": "the-giant-gila-monster-1959",
+      "title": "The Giant Gila Monster",
+      "year": 1959,
+      "genre": "Sci-Fi",
+      "director": "Ray Kellogg",
+      "description": "A small Texas town faces a gigantic lizard with a taste for hot rods and teenagers.",
+      "archiveId": "TheGiantGilaMonster",
+      "embedUrl": "https://archive.org/embed/TheGiantGilaMonster"
+    },
+    {
+      "id": "one-week-1920",
+      "title": "One Week",
+      "year": 1920,
+      "genre": "Comedy",
+      "director": "Buster Keaton",
+      "description": "Newlyweds build a DIY house from mislabeled parts in Keaton's breakout short.",
+      "archiveId": "silent-one-week",
+      "embedUrl": "https://archive.org/embed/silent-one-week"
+    },
+    {
+      "id": "the-kid-1921",
+      "title": "The Kid",
+      "year": 1921,
+      "genre": "Comedy",
+      "director": "Charlie Chaplin",
+      "description": "The Tramp raises an abandoned child in Chaplin's first masterpiece.",
+      "archiveId": "the-kid-1921_202609",
+      "embedUrl": "https://archive.org/embed/the-kid-1921_202609"
+    },
+    {
+      "id": "sherlock-jr-1924",
+      "title": "Sherlock Jr.",
+      "year": 1924,
+      "genre": "Comedy",
+      "director": "Buster Keaton",
+      "description": "A projectionist dreams himself into the movie screen to become a great detective.",
+      "archiveId": "MyMovie_20190318",
+      "embedUrl": "https://archive.org/embed/MyMovie_20190318"
+    },
+    {
+      "id": "the-general-1926",
+      "title": "The General",
+      "year": 1926,
+      "genre": "Comedy",
+      "director": "Buster Keaton",
+      "description": "Keaton's Civil War train chase - the greatest silent comedy ever made.",
+      "archiveId": "Buster_Keaton_The_General_1927",
+      "embedUrl": "https://archive.org/embed/Buster_Keaton_The_General_1927"
+    },
+    {
+      "id": "his-girl-friday-1940",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "genre": "Comedy",
+      "director": "Howard Hawks",
+      "description": "The fastest-talking comedy ever: a scheming editor tries to win back his star-reporter ex-wife.",
+      "archiveId": "HisGirlFriday1940",
+      "embedUrl": "https://archive.org/embed/HisGirlFriday1940"
+    },
+    {
+      "id": "the-sin-of-harold-diddlebock-1947",
+      "title": "The Sin of Harold Diddlebock",
+      "year": 1947,
+      "genre": "Comedy",
+      "director": "Preston Sturges",
+      "description": "Harold Lloyd's comeback: a mild clerk goes gloriously wild after a single drink.",
+      "archiveId": "harolddiddlebock",
+      "embedUrl": "https://archive.org/embed/harolddiddlebock"
+    },
+    {
+      "id": "beat-the-devil-1953",
+      "title": "Beat the Devil",
+      "year": 1953,
+      "genre": "Comedy",
+      "director": "John Huston",
+      "description": "Bogart leads a gang of con artists chasing uranium in this sly, improvised farce.",
+      "archiveId": "BeatTheDevil1953",
+      "embedUrl": "https://archive.org/embed/BeatTheDevil1953"
+    },
+    {
+      "id": "charade-1963",
+      "title": "Charade",
+      "year": 1963,
+      "genre": "Comedy",
+      "director": "Stanley Donen",
+      "description": "Audrey Hepburn and Cary Grant dodge killers across Paris in the most charming thriller-comedy ever made.",
+      "archiveId": "turner_video_341",
+      "embedUrl": "https://archive.org/embed/turner_video_341"
+    },
+    {
+      "id": "the-phantom-empire-1935",
+      "title": "The Phantom Empire",
+      "year": 1935,
+      "genre": "Western",
+      "director": "Otto Brower",
+      "description": "Singing cowboy Gene Autry discovers an underground sci-fi kingdom beneath his ranch. A gloriously weird serial.",
+      "archiveId": "The_Phantom_Empire_1935",
+      "embedUrl": "https://archive.org/embed/The_Phantom_Empire_1935"
+    },
+    {
+      "id": "the-painted-stallion-1937",
+      "title": "The Painted Stallion",
+      "year": 1937,
+      "genre": "Western",
+      "director": "Alan James",
+      "description": "A wagon train, a stolen payroll, and a painted horse in this classic Republic serial.",
+      "archiveId": "the-painted-stallionthe-painted-stallion",
+      "embedUrl": "https://archive.org/embed/the-painted-stallionthe-painted-stallion"
+    },
+    {
+      "id": "billy-the-kid-returns-1938",
+      "title": "Billy the Kid Returns",
+      "year": 1938,
+      "genre": "Western",
+      "director": "Joseph Kane",
+      "description": "Roy Rogers stars as the legendary outlaw in this action-packed B-western.",
+      "archiveId": "BillytheKidReturns",
+      "embedUrl": "https://archive.org/embed/BillytheKidReturns"
+    },
+    {
+      "id": "jesse-james-at-bay-1941",
+      "title": "Jesse James at Bay",
+      "year": 1941,
+      "genre": "Western",
+      "director": "Joseph Kane",
+      "description": "Roy Rogers doubles as Jesse James and the lookalike hired to impersonate him.",
+      "archiveId": "Jesse_James_at_Bay_1941",
+      "embedUrl": "https://archive.org/embed/Jesse_James_at_Bay_1941"
+    },
+    {
+      "id": "angel-and-the-badman-1947",
+      "title": "Angel and the Badman",
+      "year": 1947,
+      "genre": "Western",
+      "director": "James Edward Grant",
+      "description": "John Wayne's wounded gunfighter is nursed back to health by a Quaker family - and rethinks his life.",
+      "archiveId": "angel_and_the_badman",
+      "embedUrl": "https://archive.org/embed/angel_and_the_badman"
+    },
+    {
+      "id": "mclintock-1963",
+      "title": "McLintock!",
+      "year": 1963,
+      "genre": "Western",
+      "director": "Andrew V. McLaglen",
+      "description": "John Wayne brawls and blusters through cattle country in this rowdy comedy-western.",
+      "archiveId": "mclintok_widescreen",
+      "embedUrl": "https://archive.org/embed/mclintok_widescreen"
+    },
+    {
+      "id": "intolerance-1916",
+      "title": "Intolerance",
+      "year": 1916,
+      "genre": "Silent",
+      "director": "D. W. Griffith",
+      "description": "Four stories across the centuries, one theme: humanity's cruelty. Cinema's first mega-spectacle.",
+      "archiveId": "Intolerance1916",
+      "embedUrl": "https://archive.org/embed/Intolerance1916"
+    },
+    {
+      "id": "broken-blossoms-1919",
+      "title": "Broken Blossoms",
+      "year": 1919,
+      "genre": "Silent",
+      "director": "D. W. Griffith",
+      "description": "A gentle immigrant shelters an abused girl in Griffith's tender, tragic melodrama.",
+      "archiveId": "brokenblossoms1919",
+      "embedUrl": "https://archive.org/embed/brokenblossoms1919"
+    },
+    {
+      "id": "the-cabinet-of-dr-caligari-1920",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "genre": "Silent",
+      "director": "Robert Wiene",
+      "description": "A hypnotist's sleepwalker may be a murderer in the landmark of German Expressionism.",
+      "archiveId": "DasKabinettdesDoktorCaligariTheCabinetofDrCaligari",
+      "embedUrl": "https://archive.org/embed/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari"
+    },
+    {
+      "id": "the-mark-of-zorro-1920",
+      "title": "The Mark of Zorro",
+      "year": 1920,
+      "genre": "Silent",
+      "director": "Fred Niblo",
+      "description": "Douglas Fairbanks swashbuckles through old California in the original masked-hero adventure.",
+      "archiveId": "the-mark-of-zorro",
+      "embedUrl": "https://archive.org/embed/the-mark-of-zorro"
+    },
+    {
+      "id": "the-hunchback-of-notre-dame-1923",
+      "title": "The Hunchback of Notre Dame",
+      "year": 1923,
+      "genre": "Silent",
+      "director": "Wallace Worsley",
+      "description": "Lon Chaney's Quasimodo swings through this lavish silent epic.",
+      "archiveId": "The_Hunchback_of_Notre_Dame",
+      "embedUrl": "https://archive.org/embed/The_Hunchback_of_Notre_Dame"
+    },
+    {
+      "id": "battleship-potemkin-1925",
+      "title": "Battleship Potemkin",
+      "year": 1925,
+      "genre": "Silent",
+      "director": "Sergei Eisenstein",
+      "description": "Sailors mutiny against tyranny; the Odessa Steps sequence changed cinema forever.",
+      "archiveId": "BattleshipPotemkin",
+      "embedUrl": "https://archive.org/embed/BattleshipPotemkin"
+    },
+    {
+      "id": "the-passion-of-joan-of-arc-1928",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928,
+      "genre": "Silent",
+      "director": "Carl Theodor Dreyer",
+      "description": "Falconetti's face in close-up carries one of the most devastating performances ever filmed.",
+      "archiveId": "the-passion-of-joan-of-arc",
+      "embedUrl": "https://archive.org/embed/the-passion-of-joan-of-arc"
+    },
+    {
+      "id": "reefer-madness-1936",
+      "title": "Reefer Madness",
+      "year": 1936,
+      "genre": "Drama",
+      "director": "Louis J. Gasnier",
+      "description": "The infamous anti-marijuana scare film - now a beloved camp classic.",
+      "archiveId": "reefer_madness1938",
+      "embedUrl": "https://archive.org/embed/reefer_madness1938"
+    },
+    {
+      "id": "the-wasp-woman-1959",
+      "title": "The Wasp Woman",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "A cosmetics queen's youth serum turns her into a wasp-headed killer. Corman creature feature.",
+      "archiveId": "The_Wasp_Women",
+      "embedUrl": "https://archive.org/embed/The_Wasp_Women"
+    },
+    {
+      "id": "attack-of-the-giant-leeches-1959",
+      "title": "Attack of the Giant Leeches",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "Bernard L. Kowalski",
+      "description": "Giant leeches in a Florida swamp prey on locals. Kowalski's B-movie classic.",
+      "archiveId": "AttackOfTheGiantLeeches1959",
+      "embedUrl": "https://archive.org/embed/AttackOfTheGiantLeeches1959"
+    },
+    {
+      "id": "the-giant-behemoth-1959",
+      "title": "The Giant Behemoth",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "Douglas Hickox",
+      "description": "A radioactive paleosaurus stomps through London. Britain's answer to Godzilla.",
+      "archiveId": "EugneLouriesTheGiantBehemothakabehemothTheSeaMonster1959Movie",
+      "embedUrl": "https://archive.org/embed/EugneLouriesTheGiantBehemothakabehemothTheSeaMonster1959Movie"
+    },
+    {
+      "id": "the-hideous-sun-demon-1958",
+      "title": "The Hideous Sun Demon",
+      "year": 1958,
+      "genre": "Horror",
+      "director": "Robert Clarke",
+      "description": "A scientist turns into a reptile monster whenever sunlight hits him.",
+      "archiveId": "the.-hideous.-sun.-demon.-1958",
+      "embedUrl": "https://archive.org/embed/the.-hideous.-sun.-demon.-1958"
+    },
+    {
+      "id": "the-monster-of-piedras-blancas-1959",
+      "title": "The Monster of Piedras Blancas",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "Irvin Berwick",
+      "description": "A coastal town is terrorized by a scaly humanoid from the sea.",
+      "archiveId": "TheMonsterofPiedrasBlancas1959",
+      "embedUrl": "https://archive.org/embed/TheMonsterofPiedrasBlancas1959"
+    },
+    {
+      "id": "the-phantom-from-10-000-leagues-1955",
+      "title": "The Phantom from 10,000 Leagues",
+      "year": 1955,
+      "genre": "Horror",
+      "director": "Dan Milner",
+      "description": "A radioactive sea monster lurks off the California coast.",
+      "archiveId": "ThePhantomFrom10000LeaguesWidescreenQualityUpgrade",
+      "embedUrl": "https://archive.org/embed/ThePhantomFrom10000LeaguesWidescreenQualityUpgrade"
+    },
+    {
+      "id": "it-conquered-the-world-1956",
+      "title": "It Conquered the World",
+      "year": 1956,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "A Venusian invades Earth through a disillusioned scientist. Corman classic.",
+      "archiveId": "HowItConqueredTheWorld",
+      "embedUrl": "https://archive.org/embed/HowItConqueredTheWorld"
+    },
+    {
+      "id": "not-of-this-earth-1957",
+      "title": "Not of This Earth",
+      "year": 1957,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "An alien needs human blood transfusions to survive on Earth.",
+      "archiveId": "not-of-this-earth-1957",
+      "embedUrl": "https://archive.org/embed/not-of-this-earth-1957"
+    },
+    {
+      "id": "the-day-the-world-ended-1955",
+      "title": "The Day the World Ended",
+      "year": 1955,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "Post-nuclear survivors hole up in a valley. Corman's end-of-the-world.",
+      "archiveId": "sam6_hardwarexpress_5751",
+      "embedUrl": "https://archive.org/embed/sam6_hardwarexpress_5751"
+    },
+    {
+      "id": "the-undead-1957",
+      "title": "The Undead",
+      "year": 1957,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "A prostitute is hypnotically regressed to the Middle Ages. Corman's time-trip horror.",
+      "archiveId": "THEUNDEAD_201607",
+      "embedUrl": "https://archive.org/embed/THEUNDEAD_201607"
+    },
+    {
+      "id": "the-screaming-skull-1958",
+      "title": "The Screaming Skull",
+      "year": 1958,
+      "genre": "Horror",
+      "director": "Alex Nicol",
+      "description": "A haunted skull torments a new bride. Famous 'free burial service' gimmick.",
+      "archiveId": "TheScreamingSkull",
+      "embedUrl": "https://archive.org/embed/TheScreamingSkull"
+    },
+    {
+      "id": "the-unearthly-1957",
+      "title": "The Unearthly",
+      "year": 1957,
+      "genre": "Horror",
+      "director": "Boris Petroff",
+      "description": "A mad doctor's longevity experiments in a creepy mansion.",
+      "archiveId": "the-unearthly",
+      "embedUrl": "https://archive.org/embed/the-unearthly"
+    },
+    {
+      "id": "the-devil-s-partner-1961",
+      "title": "The Devil's Partner",
+      "year": 1961,
+      "genre": "Horror",
+      "director": "Charles R. Rondeau",
+      "description": "A devil-worshipping old man returns young to claim a bride.",
+      "archiveId": "TheDevilsPartner1958",
+      "embedUrl": "https://archive.org/embed/TheDevilsPartner1958"
+    },
+    {
+      "id": "the-creeping-terror-1964",
+      "title": "The Creeping Terror",
+      "year": 1964,
+      "genre": "Horror",
+      "director": "Vic Savage",
+      "description": "A carpet-like alien eats a small town. Infamously inept creature feature.",
+      "archiveId": "TheCreepingTerror",
+      "embedUrl": "https://archive.org/embed/TheCreepingTerror"
+    },
+    {
+      "id": "the-horror-of-party-beach-1964",
+      "title": "The Horror of Party Beach",
+      "year": 1964,
+      "genre": "Horror",
+      "director": "Del Tenney",
+      "description": "Radioactive sea monsters crash a beach party. Del Tenney's monster mash.",
+      "archiveId": "horror-of-party-beach",
+      "embedUrl": "https://archive.org/embed/horror-of-party-beach"
+    },
+    {
+      "id": "the-curse-of-the-living-corpse-1964",
+      "title": "The Curse of the Living Corpse",
+      "year": 1964,
+      "genre": "Horror",
+      "director": "Del Tenney",
+      "description": "A dead patriarch's will unleashes a string of family murders.",
+      "archiveId": "the.curse.of.the.living.corpse.1964",
+      "embedUrl": "https://archive.org/embed/the.curse.of.the.living.corpse.1964"
+    },
+    {
+      "id": "eegah-1962",
+      "title": "Eegah",
+      "year": 1962,
+      "genre": "Horror",
+      "director": "Arch Hall Sr.",
+      "description": "A caveman in the California desert. Arch Hall Jr. cult classic.",
+      "archiveId": "Eegah_201510",
+      "embedUrl": "https://archive.org/embed/Eegah_201510"
+    },
+    {
+      "id": "the-sadist-1963",
+      "title": "The Sadist",
+      "year": 1963,
+      "genre": "Horror",
+      "director": "James Landis",
+      "description": "Three teachers held hostage by a psychotic killer. Brutal and ahead of its time.",
+      "archiveId": "The_Sadist",
+      "embedUrl": "https://archive.org/embed/The_Sadist"
+    },
+    {
+      "id": "the-incredibly-strange-creatures-who-stopped-living-and-became-mixed-up-zombies-1964",
+      "title": "The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies",
+      "year": 1964,
+      "genre": "Horror",
+      "director": "Ray Dennis Steckler",
+      "description": "The first monster musical: a carnival hypnotist turns patrons into zombies.",
+      "archiveId": "the-incredibly-strange-creatures-who-stopped-living-and-became-mixed-up-zombies-1964",
+      "embedUrl": "https://archive.org/embed/the-incredibly-strange-creatures-who-stopped-living-and-became-mixed-up-zombies-1964"
+    },
+    {
+      "id": "bride-of-the-monster-1955",
+      "title": "Bride of the Monster",
+      "year": 1955,
+      "genre": "Horror",
+      "director": "Ed Wood",
+      "description": "Ed Wood's infamous transvestite drama starring Bela Lugosi and Wood himself.",
+      "archiveId": "bride-of-the-monster-1955",
+      "embedUrl": "https://archive.org/embed/bride-of-the-monster-1955"
+    },
+    {
+      "id": "night-of-the-ghouls-1959",
+      "title": "Night of the Ghouls",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "Ed Wood",
+      "description": "Ed Wood's lost sequel to Bride of the Monster, with Tor Johnson.",
+      "archiveId": "night-of-the-ghouls_202202",
+      "embedUrl": "https://archive.org/embed/night-of-the-ghouls_202202"
+    },
+    {
+      "id": "a-bucket-of-blood-1959",
+      "title": "A Bucket of Blood",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "Roger Corman",
+      "description": "A busboy becomes an art sensation by turning corpses into sculptures. Beatnik horror-comedy.",
+      "archiveId": "ABucketOfBlood1959_931",
+      "embedUrl": "https://archive.org/embed/ABucketOfBlood1959_931"
+    },
+    {
+      "id": "the-brain-that-wouldn-t-die-1962",
+      "title": "The Brain That Wouldn't Die",
+      "year": 1962,
+      "genre": "Horror",
+      "director": "Joseph Green",
+      "description": "A surgeon keeps his fiancee's severed head alive while hunting for a new body.",
+      "archiveId": "TheBrainThatWouldntDie-ExtendedVersion1962",
+      "embedUrl": "https://archive.org/embed/TheBrainThatWouldntDie-ExtendedVersion1962"
+    },
+    {
+      "id": "gog-1954",
+      "title": "Gog",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "Herbert L. Strock",
+      "description": "A supercomputer goes rogue in an underground lab.",
+      "archiveId": "KhazarGogAndMagogImpostors",
+      "embedUrl": "https://archive.org/embed/KhazarGogAndMagogImpostors"
+    },
+    {
+      "id": "riders-to-the-stars-1954",
+      "title": "Riders to the Stars",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "Richard Carlson",
+      "description": "Scientists hunt meteors for a spaceflight metal.",
+      "archiveId": "riders-to-the-stars-1954",
+      "embedUrl": "https://archive.org/embed/riders-to-the-stars-1954"
+    },
+    {
+      "id": "killers-from-space-1954",
+      "title": "Killers from Space",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "W. Lee Wilder",
+      "description": "Aliens plot Earth's takeover through a kidnapped scientist.",
+      "archiveId": "VTS011_20190326",
+      "embedUrl": "https://archive.org/embed/VTS011_20190326"
+    },
+    {
+      "id": "target-earth-1954",
+      "title": "Target Earth",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "Sherman A. Rose",
+      "description": "Robot invaders empty the streets of Chicago.",
+      "archiveId": "target-earth-1954-colorized",
+      "embedUrl": "https://archive.org/embed/target-earth-1954-colorized"
+    },
+    {
+      "id": "the-snow-creature-1954",
+      "title": "The Snow Creature",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "W. Lee Wilder",
+      "description": "A captured Yeti brought to Los Angeles runs amok.",
+      "archiveId": "TheSnowCreature",
+      "embedUrl": "https://archive.org/embed/TheSnowCreature"
+    },
+    {
+      "id": "devil-girl-from-mars-1954",
+      "title": "Devil Girl from Mars",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "David MacDonald",
+      "description": "A Martian woman lands in Scotland seeking men. British sci-fi.",
+      "archiveId": "DevilGirlFromMars",
+      "embedUrl": "https://archive.org/embed/DevilGirlFromMars"
+    },
+    {
+      "id": "stranger-from-venus-1954",
+      "title": "Stranger from Venus",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "Burt Balaban",
+      "description": "A Venusian warns Earth against nuclear war. Britain's answer to Klaatu.",
+      "archiveId": "ValiantThor-TheStrangerFromVenusAtThePentagon-VideoCollection",
+      "embedUrl": "https://archive.org/embed/ValiantThor-TheStrangerFromVenusAtThePentagon-VideoCollection"
+    },
+    {
+      "id": "tobor-the-great-1954",
+      "title": "Tobor the Great",
+      "year": 1954,
+      "genre": "Sci-Fi",
+      "director": "Lee Sholem",
+      "description": "A boy befriends a government robot.",
+      "archiveId": "tobor-the-great-1954-colorized",
+      "embedUrl": "https://archive.org/embed/tobor-the-great-1954-colorized"
+    },
+    {
+      "id": "the-night-the-world-exploded-1957",
+      "title": "The Night the World Exploded",
+      "year": 1957,
+      "genre": "Sci-Fi",
+      "director": "Fred F. Sears",
+      "description": "Underground atomic blasts trigger global earthquakes.",
+      "archiveId": "the-night-the-world-exploded",
+      "embedUrl": "https://archive.org/embed/the-night-the-world-exploded"
+    },
+    {
+      "id": "the-unknown-terror-1957",
+      "title": "The Unknown Terror",
+      "year": 1957,
+      "genre": "Sci-Fi",
+      "director": "Charles Marquis Warren",
+      "description": "A cave-dwelling fungus terrorizes a South American expedition.",
+      "archiveId": "RamarOfTheJungle-TheUnknownTerror",
+      "embedUrl": "https://archive.org/embed/RamarOfTheJungle-TheUnknownTerror"
+    },
+    {
+      "id": "the-cyclops-1957",
+      "title": "The Cyclops",
+      "year": 1957,
+      "genre": "Sci-Fi",
+      "director": "Bert I. Gordon",
+      "description": "A one-eyed giant stalks the Mexican jungle. Bert I. Gordon.",
+      "archiveId": "VULCANATLAS",
+      "embedUrl": "https://archive.org/embed/VULCANATLAS"
+    },
+    {
+      "id": "the-beginning-of-the-end-1957",
+      "title": "The Beginning of the End",
+      "year": 1957,
+      "genre": "Sci-Fi",
+      "director": "Bert I. Gordon",
+      "description": "Giant grasshoppers attack Chicago. Bert I. Gordon.",
+      "archiveId": "Bidaya.8.En",
+      "embedUrl": "https://archive.org/embed/Bidaya.8.En"
+    },
+    {
+      "id": "attack-of-the-crab-monsters-1957",
+      "title": "Attack of the Crab Monsters",
+      "year": 1957,
+      "genre": "Sci-Fi",
+      "director": "Roger Corman",
+      "description": "Giant telepathic crabs on a Pacific atoll. Corman.",
+      "archiveId": "PhantasmagoriaTheater-AttackOfTheCrabMonsters1957848",
+      "embedUrl": "https://archive.org/embed/PhantasmagoriaTheater-AttackOfTheCrabMonsters1957848"
+    },
+    {
+      "id": "war-of-the-satellites-1958",
+      "title": "War of the Satellites",
+      "year": 1958,
+      "genre": "Sci-Fi",
+      "director": "Roger Corman",
+      "description": "Aliens sabotage Earth's space program. Corman.",
+      "archiveId": "WARSATELLITESVOYAGEPREHISTORICPLANET",
+      "embedUrl": "https://archive.org/embed/WARSATELLITESVOYAGEPREHISTORICPLANET"
+    },
+    {
+      "id": "teenage-caveman-1958",
+      "title": "Teenage Caveman",
+      "year": 1958,
+      "genre": "Sci-Fi",
+      "director": "Roger Corman",
+      "description": "A post-apocalyptic tribe vs. the forbidden zone. Corman.",
+      "archiveId": "teenage-caveman-1958",
+      "embedUrl": "https://archive.org/embed/teenage-caveman-1958"
+    },
+    {
+      "id": "night-of-the-blood-beast-1958",
+      "title": "Night of the Blood Beast",
+      "year": 1958,
+      "genre": "Sci-Fi",
+      "director": "Bernard L. Kowalski",
+      "description": "An astronaut returns from space... changed. Kowalski.",
+      "archiveId": "NightOfTheBloodBeast1958",
+      "embedUrl": "https://archive.org/embed/NightOfTheBloodBeast1958"
+    },
+    {
+      "id": "the-cosmic-man-1959",
+      "title": "The Cosmic Man",
+      "year": 1959,
+      "genre": "Sci-Fi",
+      "director": "Herbert Greene",
+      "description": "A mysterious alien sphere lands in California.",
+      "archiveId": "CosmoMan59",
+      "embedUrl": "https://archive.org/embed/CosmoMan59"
+    },
+    {
+      "id": "first-man-into-space-1959",
+      "title": "First Man into Space",
+      "year": 1959,
+      "genre": "Sci-Fi",
+      "director": "Robert Day",
+      "description": "An astronaut returns as a bloodthirsty monster.",
+      "archiveId": "first-man-into-space-1959_202210",
+      "embedUrl": "https://archive.org/embed/first-man-into-space-1959_202210"
+    },
+    {
+      "id": "the-trollenberg-terror-1958",
+      "title": "The Trollenberg Terror",
+      "year": 1958,
+      "genre": "Sci-Fi",
+      "director": "Quentin Lawrence",
+      "description": "Decapitation-hungry cloud creatures in the Alps.",
+      "archiveId": "the-trollenberg-terror_zomboo",
+      "embedUrl": "https://archive.org/embed/the-trollenberg-terror_zomboo"
+    },
+    {
+      "id": "the-time-travelers-1964",
+      "title": "The Time Travelers",
+      "year": 1964,
+      "genre": "Sci-Fi",
+      "director": "Ib Melchior",
+      "description": "Scientists glimpse a dying future Earth. Ib Melchior.",
+      "archiveId": "the.-time.-travelers.-1964",
+      "embedUrl": "https://archive.org/embed/the.-time.-travelers.-1964"
+    },
+    {
+      "id": "the-human-duplicators-1965",
+      "title": "The Human Duplicators",
+      "year": 1965,
+      "genre": "Sci-Fi",
+      "director": "Hugo Grimaldi",
+      "description": "Aliens replace humans with android doubles.",
+      "archiveId": "the-human-duplicators-1965",
+      "embedUrl": "https://archive.org/embed/the-human-duplicators-1965"
+    },
+    {
+      "id": "mutiny-in-outer-space-1965",
+      "title": "Mutiny in Outer Space",
+      "year": 1965,
+      "genre": "Sci-Fi",
+      "director": "Hugo Grimaldi",
+      "description": "A deadly fungus threatens a space station.",
+      "archiveId": "MutinyInOuterSpace_201901",
+      "embedUrl": "https://archive.org/embed/MutinyInOuterSpace_201901"
+    },
+    {
+      "id": "destination-inner-space-1966",
+      "title": "Destination Inner Space",
+      "year": 1966,
+      "genre": "Sci-Fi",
+      "director": "Francis D. Lyon",
+      "description": "A UFO is found under the sea.",
+      "archiveId": "destination-inner-space-1966",
+      "embedUrl": "https://archive.org/embed/destination-inner-space-1966"
+    },
+    {
+      "id": "the-navy-vs-the-night-monsters-1966",
+      "title": "The Navy vs. the Night Monsters",
+      "year": 1966,
+      "genre": "Sci-Fi",
+      "director": "Michael A. Hoey",
+      "description": "Carnivorous trees vs. a Navy base.",
+      "archiveId": "rsm-110924-the-navy-vs-the-night-monsters",
+      "embedUrl": "https://archive.org/embed/rsm-110924-the-navy-vs-the-night-monsters"
+    },
+    {
+      "id": "women-of-the-prehistoric-planet-1966",
+      "title": "Women of the Prehistoric Planet",
+      "year": 1966,
+      "genre": "Sci-Fi",
+      "director": "Arthur Sherman",
+      "description": "Shipwrecked spacemen stranded on a dinosaur planet.",
+      "archiveId": "mst-3-k-104-wmphp",
+      "embedUrl": "https://archive.org/embed/mst-3-k-104-wmphp"
+    },
+    {
+      "id": "cyborg-2087-1966",
+      "title": "Cyborg 2087",
+      "year": 1966,
+      "genre": "Sci-Fi",
+      "director": "Franklin Adreon",
+      "description": "A cyborg travels back in time to stop a totalitarian future.",
+      "archiveId": "Cyborg2087OldFilm",
+      "embedUrl": "https://archive.org/embed/Cyborg2087OldFilm"
+    },
+    {
+      "id": "queen-of-blood-1966",
+      "title": "Queen of Blood",
+      "year": 1966,
+      "genre": "Sci-Fi",
+      "director": "Curtis Harrington",
+      "description": "A vampire alien aboard a rescue mission. Corman-produced.",
+      "archiveId": "QueenOfBlood",
+      "embedUrl": "https://archive.org/embed/QueenOfBlood"
+    },
+    {
+      "id": "voyage-to-the-prehistoric-planet-1965",
+      "title": "Voyage to the Prehistoric Planet",
+      "year": 1965,
+      "genre": "Sci-Fi",
+      "director": "Curtis Harrington",
+      "description": "Soviet Venus footage re-cut by Corman. Prehistoric planet expedition.",
+      "archiveId": "turner_video_11674",
+      "embedUrl": "https://archive.org/embed/turner_video_11674"
+    },
+    {
+      "id": "santa-claus-conquers-the-martians-1964",
+      "title": "Santa Claus Conquers the Martians",
+      "year": 1964,
+      "genre": "Sci-Fi",
+      "director": "Nicholas Webster",
+      "description": "Martians kidnap Santa Claus. Gloriously awful holiday sci-fi.",
+      "archiveId": "SantaClausConquerstheMartians1964",
+      "embedUrl": "https://archive.org/embed/SantaClausConquerstheMartians1964"
+    },
+    {
+      "id": "the-yesterday-machine-1963",
+      "title": "The Yesterday Machine",
+      "year": 1963,
+      "genre": "Sci-Fi",
+      "director": "Russ Marker",
+      "description": "A Nazi time machine hidden in Texas.",
+      "archiveId": "TheYesterdayMachine1963",
+      "embedUrl": "https://archive.org/embed/TheYesterdayMachine1963"
+    },
+    {
+      "id": "zontar-the-thing-from-venus-1966",
+      "title": "Zontar: The Thing from Venus",
+      "year": 1966,
+      "genre": "Sci-Fi",
+      "director": "Larry Buchanan",
+      "description": "TV-movie remake of It Conquered the World. Larry Buchanan.",
+      "archiveId": "Zontar_Thing_From_Venus",
+      "embedUrl": "https://archive.org/embed/Zontar_Thing_From_Venus"
+    },
+    {
+      "id": "mars-needs-women-1967",
+      "title": "Mars Needs Women",
+      "year": 1967,
+      "genre": "Sci-Fi",
+      "director": "Larry Buchanan",
+      "description": "TV-movie: Martians come to Earth seeking women. Larry Buchanan.",
+      "archiveId": "mars-needs-women-1967",
+      "embedUrl": "https://archive.org/embed/mars-needs-women-1967"
+    },
+    {
+      "id": "the-wild-wild-world-of-batwoman-1966",
+      "title": "The Wild Wild World of Batwoman",
+      "year": 1966,
+      "genre": "Sci-Fi",
+      "director": "Jerry Warren",
+      "description": "Batwoman vs. mad scientists. Jerry Warren psychotronica.",
+      "archiveId": "mst-3-k-the-wild-wild-world-of-batwoman-alien-from-la-teenage-strangler_202608",
+      "embedUrl": "https://archive.org/embed/mst-3-k-the-wild-wild-world-of-batwoman-alien-from-la-teenage-strangler_202608"
+    },
+    {
+      "id": "the-great-flamarion-1945",
+      "title": "The Great Flamarion",
+      "year": 1945,
+      "genre": "Noir",
+      "director": "Anthony Mann",
+      "description": "A vaudeville sharpshooter's deadly love triangle. Anthony Mann.",
+      "archiveId": "Great_Flamarion_1945",
+      "embedUrl": "https://archive.org/embed/Great_Flamarion_1945"
+    },
+    {
+      "id": "decoy-1946",
+      "title": "Decoy",
+      "year": 1946,
+      "genre": "Noir",
+      "director": "Jack Bernhard",
+      "description": "A femme fatale double-crosses everyone for $400,000.",
+      "archiveId": "THE_BUCCANEERS_The_Decoy",
+      "embedUrl": "https://archive.org/embed/THE_BUCCANEERS_The_Decoy"
+    },
+    {
+      "id": "apology-for-murder-1945",
+      "title": "Apology for Murder",
+      "year": 1945,
+      "genre": "Noir",
+      "director": "Sam Newfield",
+      "description": "A scheming wife's murder plot. Noir B-movie staple.",
+      "archiveId": "apology-for-murder-1945",
+      "embedUrl": "https://archive.org/embed/apology-for-murder-1945"
+    },
+    {
+      "id": "the-black-book-1949",
+      "title": "The Black Book",
+      "year": 1949,
+      "genre": "Noir",
+      "director": "Anthony Mann",
+      "description": "French Revolution noir with Robert Cummings. Anthony Mann.",
+      "archiveId": "THEBLACKBOOKUncut",
+      "embedUrl": "https://archive.org/embed/THEBLACKBOOKUncut"
+    },
+    {
+      "id": "alimony-1949",
+      "title": "Alimony",
+      "year": 1949,
+      "genre": "Noir",
+      "director": "Alfred Zeisler",
+      "description": "A gold-digger's murder scheme unravels.",
+      "archiveId": "Alimony",
+      "embedUrl": "https://archive.org/embed/Alimony"
+    },
+    {
+      "id": "c-man-1949",
+      "title": "C-Man",
+      "year": 1949,
+      "genre": "Noir",
+      "director": "Joseph Lerner",
+      "description": "A customs agent vs. diamond smugglers in New York.",
+      "archiveId": "C-Man",
+      "embedUrl": "https://archive.org/embed/C-Man"
+    },
+    {
+      "id": "trapped-1949",
+      "title": "Trapped",
+      "year": 1949,
+      "genre": "Noir",
+      "director": "Richard Fleischer",
+      "description": "A counterfeiter trapped by the feds. Richard Fleischer.",
+      "archiveId": "trapped_202207",
+      "embedUrl": "https://archive.org/embed/trapped_202207"
+    },
+    {
+      "id": "quicksand-1950",
+      "title": "Quicksand",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Irving Pichel",
+      "description": "Mickey Rooney's $20 theft spirals into murder.",
+      "archiveId": "Quicksand720p1950",
+      "embedUrl": "https://archive.org/embed/Quicksand720p1950"
+    },
+    {
+      "id": "the-sound-of-fury-1950",
+      "title": "The Sound of Fury",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Cy Endfield",
+      "description": "A lynch mob noir. Brutal and brilliant. Cy Endfield.",
+      "archiveId": "the-sound-of-fury-1950",
+      "embedUrl": "https://archive.org/embed/the-sound-of-fury-1950"
+    },
+    {
+      "id": "the-killer-that-stalked-new-york-1950",
+      "title": "The Killer That Stalked New York",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Earl McEvoy",
+      "description": "A diamond smuggler spreads smallpox across New York.",
+      "archiveId": "thekillerthatstalkednewyork1950",
+      "embedUrl": "https://archive.org/embed/thekillerthatstalkednewyork1950"
+    },
+    {
+      "id": "guilty-bystander-1950",
+      "title": "Guilty Bystander",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Joseph Lerner",
+      "description": "An ex-cop searches for his kidnapped son in the underworld.",
+      "archiveId": "1950-guilty-bystander-joseph-lerner-vose",
+      "embedUrl": "https://archive.org/embed/1950-guilty-bystander-joseph-lerner-vose"
+    },
+    {
+      "id": "the-man-with-my-face-1951",
+      "title": "The Man with My Face",
+      "year": 1951,
+      "genre": "Noir",
+      "director": "Edward Montagne",
+      "description": "A man is replaced by his exact double. Paranoia noir.",
+      "archiveId": "1951themanwithmyfaceelhombreconmicaraedwardmontagne",
+      "embedUrl": "https://archive.org/embed/1951themanwithmyfaceelhombreconmicaraedwardmontagne"
+    },
+    {
+      "id": "the-well-1951",
+      "title": "The Well",
+      "year": 1951,
+      "genre": "Noir",
+      "director": "Leo C. Popkin",
+      "description": "A missing girl sparks racial tension in a small town.",
+      "archiveId": "TheWomanAtTheWelljohn41-42",
+      "embedUrl": "https://archive.org/embed/TheWomanAtTheWelljohn41-42"
+    },
+    {
+      "id": "the-captive-city-1952",
+      "title": "The Captive City",
+      "year": 1952,
+      "genre": "Noir",
+      "director": "Robert Wise",
+      "description": "A newspaperman takes on the mob. Robert Wise.",
+      "archiveId": "the-captive-city-1952",
+      "embedUrl": "https://archive.org/embed/the-captive-city-1952"
+    },
+    {
+      "id": "the-glass-wall-1953",
+      "title": "The Glass Wall",
+      "year": 1953,
+      "genre": "Noir",
+      "director": "Maxwell Shane",
+      "description": "A refugee's desperate night in New York City.",
+      "archiveId": "the-glass-wall-1953-restored-movi-720p-hd",
+      "embedUrl": "https://archive.org/embed/the-glass-wall-1953-restored-movi-720p-hd"
+    },
+    {
+      "id": "the-bigamist-1953",
+      "title": "The Bigamist",
+      "year": 1953,
+      "genre": "Noir",
+      "director": "Ida Lupino",
+      "description": "A man's double life is unraveled. Directed by Ida Lupino.",
+      "archiveId": "bigamist_the",
+      "embedUrl": "https://archive.org/embed/bigamist_the"
+    },
+    {
+      "id": "the-boss-1956",
+      "title": "The Boss",
+      "year": 1956,
+      "genre": "Noir",
+      "director": "Byron Haskin",
+      "description": "A Prohibition gangster's violent rise.",
+      "archiveId": "RadioRobotsTheBossOfMe",
+      "embedUrl": "https://archive.org/embed/RadioRobotsTheBossOfMe"
+    },
+    {
+      "id": "the-burglar-1957",
+      "title": "The Burglar",
+      "year": 1957,
+      "genre": "Noir",
+      "director": "Paul Wendkos",
+      "description": "Dan Duryea's jewel thief with a conscience. Paul Wendkos.",
+      "archiveId": "the-burglar-1957",
+      "embedUrl": "https://archive.org/embed/the-burglar-1957"
+    },
+    {
+      "id": "murder-by-contract-1958",
+      "title": "Murder by Contract",
+      "year": 1958,
+      "genre": "Noir",
+      "director": "Irving Lerner",
+      "description": "A hitman's existential crisis. Lean and lethal. Irving Lerner.",
+      "archiveId": "murderbycontract1958_202001",
+      "embedUrl": "https://archive.org/embed/murderbycontract1958_202001"
+    },
+    {
+      "id": "city-of-fear-1959",
+      "title": "City of Fear",
+      "year": 1959,
+      "genre": "Noir",
+      "director": "Irving Lerner",
+      "description": "An escaped con carries radioactive material. Irving Lerner.",
+      "archiveId": "cityoffear1959",
+      "embedUrl": "https://archive.org/embed/cityoffear1959"
+    },
+    {
+      "id": "the-girl-in-lovers-lane-1960",
+      "title": "The Girl in Lovers Lane",
+      "year": 1960,
+      "genre": "Noir",
+      "director": "Charles R. Rondeau",
+      "description": "Two drifters land in one deadly town.",
+      "archiveId": "mst-3-k-village-of-the-giants-the-girl-in-lovers-lane-danger-death-ray",
+      "embedUrl": "https://archive.org/embed/mst-3-k-village-of-the-giants-the-girl-in-lovers-lane-danger-death-ray"
+    },
+    {
+      "id": "armored-car-robbery-1950",
+      "title": "Armored Car Robbery",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Richard Fleischer",
+      "description": "A heist gone wrong. Fleischer's tight police procedural.",
+      "archiveId": "the-most-violent-armored-car-robbery-in-new-york-history-the-fbi-files-the-fbi-files-1080p-h-264",
+      "embedUrl": "https://archive.org/embed/the-most-violent-armored-car-robbery-in-new-york-history-the-fbi-files-the-fbi-files-1080p-h-264"
+    },
+    {
+      "id": "the-second-woman-1950",
+      "title": "The Second Woman",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "James V. Kern",
+      "description": "A man's paranoia after his fiancee's death.",
+      "archiveId": "The_Second_Woman_",
+      "embedUrl": "https://archive.org/embed/The_Second_Woman_"
+    },
+    {
+      "id": "woman-on-the-run-1950",
+      "title": "Woman on the Run",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Norman Foster",
+      "description": "A manhunt through San Francisco's underworld. Norman Foster.",
+      "archiveId": "Woman_on_the_Run",
+      "embedUrl": "https://archive.org/embed/Woman_on_the_Run"
+    },
+    {
+      "id": "the-bat-1959",
+      "title": "The Bat",
+      "year": 1959,
+      "genre": "Mystery",
+      "director": "Crane Wilbur",
+      "description": "A masked killer stalks a lonely mansion. Vincent Price.",
+      "archiveId": "THEBATVincentPriceAgnesMooreheadLenitaLaneFullHorrorMovieEnglishHD720p",
+      "embedUrl": "https://archive.org/embed/THEBATVincentPriceAgnesMooreheadLenitaLaneFullHorrorMovieEnglishHD720p"
+    },
+    {
+      "id": "the-death-kiss-1932",
+      "title": "The Death Kiss",
+      "year": 1932,
+      "genre": "Mystery",
+      "director": "Edwin L. Marin",
+      "description": "Murder on a movie set. Bela Lugosi.",
+      "archiveId": "The_Death_Kiss",
+      "embedUrl": "https://archive.org/embed/The_Death_Kiss"
+    },
+    {
+      "id": "the-sphinx-1933",
+      "title": "The Sphinx",
+      "year": 1933,
+      "genre": "Mystery",
+      "director": "Phil Rosen",
+      "description": "A deaf-mute is suspected of murder.",
+      "archiveId": "TheSphinx-1933",
+      "embedUrl": "https://archive.org/embed/TheSphinx-1933"
+    },
+    {
+      "id": "the-ghost-walks-1934",
+      "title": "The Ghost Walks",
+      "year": 1934,
+      "genre": "Mystery",
+      "director": "Frank R. Strayer",
+      "description": "A haunted mansion play-within-a-play.",
+      "archiveId": "The.Ghost.Walks",
+      "embedUrl": "https://archive.org/embed/The.Ghost.Walks"
+    },
+    {
+      "id": "the-rogues-tavern-1936",
+      "title": "The Rogues' Tavern",
+      "year": 1936,
+      "genre": "Mystery",
+      "director": "Bob Hill",
+      "description": "A storm traps strangers in a house with a killer.",
+      "archiveId": "Rogues_Tavern--1936",
+      "embedUrl": "https://archive.org/embed/Rogues_Tavern--1936"
+    },
+    {
+      "id": "the-dark-hour-1936",
+      "title": "The Dark Hour",
+      "year": 1936,
+      "genre": "Mystery",
+      "director": "Charles Lamont",
+      "description": "A murder in a mansion with too many suspects.",
+      "archiveId": "The.Dark.Hour",
+      "embedUrl": "https://archive.org/embed/The.Dark.Hour"
+    },
+    {
+      "id": "the-shadow-strikes-1937",
+      "title": "The Shadow Strikes",
+      "year": 1937,
+      "genre": "Mystery",
+      "director": "Lynn Shores",
+      "description": "The Shadow's first screen outing. Rod La Rocque.",
+      "archiveId": "the_shadow_strikes",
+      "embedUrl": "https://archive.org/embed/the_shadow_strikes"
+    },
+    {
+      "id": "the-lady-in-the-morgue-1938",
+      "title": "The Lady in the Morgue",
+      "year": 1938,
+      "genre": "Mystery",
+      "director": "Otis Garrett",
+      "description": "A missing corpse mystery with a wisecracking reporter.",
+      "archiveId": "the-lady-in-the-morgue",
+      "embedUrl": "https://archive.org/embed/the-lady-in-the-morgue"
+    },
+    {
+      "id": "the-missing-guest-1938",
+      "title": "The Missing Guest",
+      "year": 1938,
+      "genre": "Mystery",
+      "director": "John Rawlins",
+      "description": "A reporter trapped in a haunted house.",
+      "archiveId": "desktop_20170220",
+      "embedUrl": "https://archive.org/embed/desktop_20170220"
+    },
+    {
+      "id": "the-spy-ring-1938",
+      "title": "The Spy Ring",
+      "year": 1938,
+      "genre": "Mystery",
+      "director": "Joseph H. Lewis",
+      "description": "Nazi spies vs. the FBI. Joseph H. Lewis.",
+      "archiveId": "the-spy-ring-1938",
+      "embedUrl": "https://archive.org/embed/the-spy-ring-1938"
+    },
+    {
+      "id": "the-witness-vanishes-1939",
+      "title": "The Witness Vanishes",
+      "year": 1939,
+      "genre": "Mystery",
+      "director": "Otis Garrett",
+      "description": "A newspaper mystery with a vanishing witness.",
+      "archiveId": "the-witness-vanishes",
+      "embedUrl": "https://archive.org/embed/the-witness-vanishes"
+    },
+    {
+      "id": "the-devil-bat-1940",
+      "title": "The Devil Bat",
+      "year": 1940,
+      "genre": "Mystery",
+      "director": "Jean Yarbrough",
+      "description": "Bela Lugosi breeds giant bats. Monogram horror-mystery.",
+      "archiveId": "HalloweenDriveInCinemaSpecial",
+      "embedUrl": "https://archive.org/embed/HalloweenDriveInCinemaSpecial"
+    },
+    {
+      "id": "the-fearmakers-1958",
+      "title": "The Fearmakers",
+      "year": 1958,
+      "genre": "Thriller",
+      "director": "Jacques Tourneur",
+      "description": "A brainwashed veteran vs. communist subversion. Jacques Tourneur.",
+      "archiveId": "the-fearmakers-1958",
+      "embedUrl": "https://archive.org/embed/the-fearmakers-1958"
+    },
+    {
+      "id": "plunder-road-1957",
+      "title": "Plunder Road",
+      "year": 1957,
+      "genre": "Thriller",
+      "director": "Hubert Cornfield",
+      "description": "A gold heist getaway across the desert. Lean thriller.",
+      "archiveId": "plunderroad1957",
+      "embedUrl": "https://archive.org/embed/plunderroad1957"
+    },
+    {
+      "id": "the-big-caper-1957",
+      "title": "The Big Caper",
+      "year": 1957,
+      "genre": "Thriller",
+      "director": "Robert Stevens",
+      "description": "A meticulously planned heist. Robert Stevens.",
+      "archiveId": "the-big-caper-1957",
+      "embedUrl": "https://archive.org/embed/the-big-caper-1957"
+    },
+    {
+      "id": "the-beat-generation-1959",
+      "title": "The Beat Generation",
+      "year": 1959,
+      "genre": "Thriller",
+      "director": "Charles F. Haas",
+      "description": "Beatniks and murder. Mamie Van Doren.",
+      "archiveId": "dvd-6626-arena",
+      "embedUrl": "https://archive.org/embed/dvd-6626-arena"
+    },
+    {
+      "id": "the-tijuana-story-1957",
+      "title": "The Tijuana Story",
+      "year": 1957,
+      "genre": "Thriller",
+      "director": "Leslie Kardos",
+      "description": "A crime expos\u00e9 on the Tijuana drug trade.",
+      "archiveId": "1957-the-tijuana-story-laszlo-kardos-vose-ok",
+      "embedUrl": "https://archive.org/embed/1957-the-tijuana-story-laszlo-kardos-vose-ok"
+    },
+    {
+      "id": "the-most-dangerous-game-1932",
+      "title": "The Most Dangerous Game",
+      "year": 1932,
+      "genre": "Thriller",
+      "director": "Irving Pichel",
+      "description": "The most dangerous game: a madman hunts humans. Classic thriller.",
+      "archiveId": "TheMostDangerousGame",
+      "embedUrl": "https://archive.org/embed/TheMostDangerousGame"
+    },
+    {
+      "id": "the-sniper-1952",
+      "title": "The Sniper",
+      "year": 1952,
+      "genre": "Thriller",
+      "director": "Edward Dmytryk",
+      "description": "A lawyer defends an innocent man against a rigged system.",
+      "archiveId": "Code3TheSniper",
+      "embedUrl": "https://archive.org/embed/Code3TheSniper"
+    },
+    {
+      "id": "jack-and-the-beanstalk-1952",
+      "title": "Jack and the Beanstalk",
+      "year": 1952,
+      "genre": "Comedy",
+      "director": "Jean Yarbrough",
+      "description": "Abbott & Costello's fairy-tale farce. Public domain.",
+      "archiveId": "JackAndTheBeanstalk_592",
+      "embedUrl": "https://archive.org/embed/JackAndTheBeanstalk_592"
+    },
+    {
+      "id": "africa-screams-1949",
+      "title": "Africa Screams",
+      "year": 1949,
+      "genre": "Comedy",
+      "director": "Charles Barton",
+      "description": "Abbott & Costello's jungle safari. Public domain.",
+      "archiveId": "Ad6AbbottCostellosAfricaScreams1949",
+      "embedUrl": "https://archive.org/embed/Ad6AbbottCostellosAfricaScreams1949"
+    },
+    {
+      "id": "the-flying-deuces-1939",
+      "title": "The Flying Deuces",
+      "year": 1939,
+      "genre": "Comedy",
+      "director": "A. Edward Sutherland",
+      "description": "Laurel & Hardy's Foreign Legion farce. Public domain.",
+      "archiveId": "TheFlyingDeuces",
+      "embedUrl": "https://archive.org/embed/TheFlyingDeuces"
+    },
+    {
+      "id": "the-big-noise-1944",
+      "title": "The Big Noise",
+      "year": 1944,
+      "genre": "Comedy",
+      "director": "Malcolm St. Clair",
+      "description": "Laurel & Hardy vs. burglars. Public domain.",
+      "archiveId": "TheBigNoiseLaurelAndHardyFilm",
+      "embedUrl": "https://archive.org/embed/TheBigNoiseLaurelAndHardyFilm"
+    },
+    {
+      "id": "the-dancing-masters-1943",
+      "title": "The Dancing Masters",
+      "year": 1943,
+      "genre": "Comedy",
+      "director": "Malcolm St. Clair",
+      "description": "Laurel & Hardy's dance school. Public domain.",
+      "archiveId": "dancing-masters",
+      "embedUrl": "https://archive.org/embed/dancing-masters"
+    },
+    {
+      "id": "jitterbugs-1943",
+      "title": "Jitterbugs",
+      "year": 1943,
+      "genre": "Comedy",
+      "director": "Malcolm St. Clair",
+      "description": "Laurel & Hardy vs. con artists. Public domain.",
+      "archiveId": "LaurelHardyJitterbugs1943",
+      "embedUrl": "https://archive.org/embed/LaurelHardyJitterbugs1943"
+    },
+    {
+      "id": "the-beatniks-1960",
+      "title": "The Beatniks",
+      "year": 1960,
+      "genre": "Comedy",
+      "director": "Paul Frees",
+      "description": "A singer torn between crooks and fame. Paul Frees.",
+      "archiveId": "TheBeatniks",
+      "embedUrl": "https://archive.org/embed/TheBeatniks"
+    },
+    {
+      "id": "the-choppers-1961",
+      "title": "The Choppers",
+      "year": 1961,
+      "genre": "Comedy",
+      "director": "Leigh Jason",
+      "description": "Hot-rodders on a crime spree. Arch Hall.",
+      "archiveId": "TheChoppers",
+      "embedUrl": "https://archive.org/embed/TheChoppers"
+    },
+    {
+      "id": "the-wild-women-of-wongo-1958",
+      "title": "The Wild Women of Wongo",
+      "year": 1958,
+      "genre": "Comedy",
+      "director": "James L. Wolcott",
+      "description": "Prehistoric comedy. A Troma favorite.",
+      "archiveId": "TheWildWomenOfWongoVideoQualityUpgrade",
+      "embedUrl": "https://archive.org/embed/TheWildWomenOfWongoVideoQualityUpgrade"
+    },
+    {
+      "id": "the-beast-of-yucca-flats-1961",
+      "title": "The Beast of Yucca Flats",
+      "year": 1961,
+      "genre": "Comedy",
+      "director": "Coleman Francis",
+      "description": "Tor Johnson's scientist turned monster. Almost no dialogue. Coleman Francis.",
+      "archiveId": "TheBeastOfYuccaFlats1961",
+      "embedUrl": "https://archive.org/embed/TheBeastOfYuccaFlats1961"
+    },
+    {
+      "id": "orgy-of-the-dead-1965",
+      "title": "Orgy of the Dead",
+      "year": 1965,
+      "genre": "Comedy",
+      "director": "Stephen C. Apostolof",
+      "description": "Ed Wood's stripper ghost story.",
+      "archiveId": "OrgyOfTheDeadVOSE",
+      "embedUrl": "https://archive.org/embed/OrgyOfTheDeadVOSE"
+    },
+    {
+      "id": "the-sinister-urge-1960",
+      "title": "The Sinister Urge",
+      "year": 1960,
+      "genre": "Comedy",
+      "director": "Ed Wood",
+      "description": "Ed Wood's anti-smut crusade.",
+      "archiveId": "turner_video_11288",
+      "embedUrl": "https://archive.org/embed/turner_video_11288"
+    },
+    {
+      "id": "jail-bait-1954",
+      "title": "Jail Bait",
+      "year": 1954,
+      "genre": "Comedy",
+      "director": "Ed Wood",
+      "description": "Ed Wood's early crime drama.",
+      "archiveId": "JailBait",
+      "embedUrl": "https://archive.org/embed/JailBait"
+    },
+    {
+      "id": "final-curtain-1957",
+      "title": "Final Curtain",
+      "year": 1957,
+      "genre": "Comedy",
+      "director": "Ed Wood",
+      "description": "Ed Wood's unreleased TV pilot.",
+      "archiveId": "finalcurtainedwood",
+      "embedUrl": "https://archive.org/embed/finalcurtainedwood"
+    },
+    {
+      "id": "king-of-the-pecos-1936",
+      "title": "King of the Pecos",
+      "year": 1936,
+      "genre": "Western",
+      "director": "Joseph Kane",
+      "description": "John Wayne's Republic western vs. land grabbers. Public domain.",
+      "archiveId": "KingOfThePecos",
+      "embedUrl": "https://archive.org/embed/KingOfThePecos"
+    },
+    {
+      "id": "winds-of-the-wasteland-1936",
+      "title": "Winds of the Wasteland",
+      "year": 1936,
+      "genre": "Western",
+      "director": "Mack V. Wright",
+      "description": "John Wayne's stagecoach race. Public domain.",
+      "archiveId": "Winds_of_the_Wasteland",
+      "embedUrl": "https://archive.org/embed/Winds_of_the_Wasteland"
+    },
+    {
+      "id": "the-oregon-trail-1936",
+      "title": "The Oregon Trail",
+      "year": 1936,
+      "genre": "Western",
+      "director": "Scott Pembroke",
+      "description": "John Wayne's Oregon Trail serial. Public domain.",
+      "archiveId": "pc-longplay-the-oregon-trail-us",
+      "embedUrl": "https://archive.org/embed/pc-longplay-the-oregon-trail-us"
+    },
+    {
+      "id": "the-vigilantes-are-coming-1936",
+      "title": "The Vigilantes Are Coming",
+      "year": 1936,
+      "genre": "Western",
+      "director": "Mack V. Wright",
+      "description": "A Zorro-like California ranger serial. Public domain.",
+      "archiveId": "the-vigilantes-are-coming-movie-serial",
+      "embedUrl": "https://archive.org/embed/the-vigilantes-are-coming-movie-serial"
+    },
+    {
+      "id": "zorro-rides-again-1937",
+      "title": "Zorro Rides Again",
+      "year": 1937,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Modern-day Zorro serial. William Witney.",
+      "archiveId": "zorro_rides_again_ep1",
+      "embedUrl": "https://archive.org/embed/zorro_rides_again_ep1"
+    },
+    {
+      "id": "the-lone-ranger-1938",
+      "title": "The Lone Ranger",
+      "year": 1938,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "The masked rider's origin serial. William Witney.",
+      "archiveId": "lr-6-tornado-3",
+      "embedUrl": "https://archive.org/embed/lr-6-tornado-3"
+    },
+    {
+      "id": "zorro-s-fighting-legion-1939",
+      "title": "Zorro's Fighting Legion",
+      "year": 1939,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Zorro in Mexico serial. William Witney.",
+      "archiveId": "zorros_fighting_legion_chapter_6",
+      "embedUrl": "https://archive.org/embed/zorros_fighting_legion_chapter_6"
+    },
+    {
+      "id": "daredevils-of-the-red-circle-1939",
+      "title": "Daredevils of the Red Circle",
+      "year": 1939,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Three acrobats vs. a masked villain serial.",
+      "archiveId": "DaredevilsOfTheRedCircleCh1",
+      "embedUrl": "https://archive.org/embed/DaredevilsOfTheRedCircleCh1"
+    },
+    {
+      "id": "adventures-of-red-ryder-1940",
+      "title": "Adventures of Red Ryder",
+      "year": 1940,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Red Ryder western serial. William Witney.",
+      "archiveId": "adventures-of-red-ryder-edit-part-01",
+      "embedUrl": "https://archive.org/embed/adventures-of-red-ryder-edit-part-01"
+    },
+    {
+      "id": "king-of-the-royal-mounted-1940",
+      "title": "King of the Royal Mounted",
+      "year": 1940,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Mountie serial. William Witney.",
+      "archiveId": "king-of-the-royal-mounted",
+      "embedUrl": "https://archive.org/embed/king-of-the-royal-mounted"
+    },
+    {
+      "id": "adventures-of-captain-marvel-1941",
+      "title": "Adventures of Captain Marvel",
+      "year": 1941,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Captain Marvel's first screen outing, as a serial.",
+      "archiveId": "TheAdventuresOfCaptainMarvelSerial1941Chapter01",
+      "embedUrl": "https://archive.org/embed/TheAdventuresOfCaptainMarvelSerial1941Chapter01"
+    },
+    {
+      "id": "jungle-girl-1941",
+      "title": "Jungle Girl",
+      "year": 1941,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Jungle heroine Nyoka serial. William Witney.",
+      "archiveId": "jungle-girl-complete-serial",
+      "embedUrl": "https://archive.org/embed/jungle-girl-complete-serial"
+    },
+    {
+      "id": "spy-smasher-1942",
+      "title": "Spy Smasher",
+      "year": 1942,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Spy Smasher vs. the Mask serial.",
+      "archiveId": "SpySmasherEpisode1AmericaBeware",
+      "embedUrl": "https://archive.org/embed/SpySmasherEpisode1AmericaBeware"
+    },
+    {
+      "id": "perils-of-nyoka-1942",
+      "title": "Perils of Nyoka",
+      "year": 1942,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "Nyoka returns for more jungle perils serial.",
+      "archiveId": "perils-of-nyoka-serial",
+      "embedUrl": "https://archive.org/embed/perils-of-nyoka-serial"
+    },
+    {
+      "id": "the-phantom-1943",
+      "title": "The Phantom",
+      "year": 1943,
+      "genre": "Western",
+      "director": "B. Reeves Eason",
+      "description": "The Ghost Who Walks serial.",
+      "archiveId": "poto-hunchbacknotredame",
+      "embedUrl": "https://archive.org/embed/poto-hunchbacknotredame"
+    },
+    {
+      "id": "zorro-s-black-whip-1944",
+      "title": "Zorro's Black Whip",
+      "year": 1944,
+      "genre": "Western",
+      "director": "Spencer Gordon Bennet",
+      "description": "Female Zorro serial.",
+      "archiveId": "zorros-black-whip",
+      "embedUrl": "https://archive.org/embed/zorros-black-whip"
+    },
+    {
+      "id": "the-crimson-ghost-1946",
+      "title": "The Crimson Ghost",
+      "year": 1946,
+      "genre": "Western",
+      "director": "William Witney",
+      "description": "The Crimson Ghost's cyclotrode serial. Misfits' mascot origin.",
+      "archiveId": "TheCrimsonGhost12Eps",
+      "embedUrl": "https://archive.org/embed/TheCrimsonGhost12Eps"
+    },
+    {
+      "id": "zombies-of-the-stratosphere-1952",
+      "title": "Zombies of the Stratosphere",
+      "year": 1952,
+      "genre": "Western",
+      "director": "Fred C. Brannon",
+      "description": "Commando Cody vs. Martian invaders serial.",
+      "archiveId": "ZombiesOfTheStratosphere",
+      "embedUrl": "https://archive.org/embed/ZombiesOfTheStratosphere"
+    },
+    {
+      "id": "shoulder-arms-1918",
+      "title": "Shoulder Arms",
+      "year": 1918,
+      "genre": "Silent",
+      "director": "Charles Chaplin",
+      "description": "Chaplin's WWI comedy. Public domain.",
+      "archiveId": "shoulder-arms-1918-charlie-chaplin-short",
+      "embedUrl": "https://archive.org/embed/shoulder-arms-1918-charlie-chaplin-short"
+    },
+    {
+      "id": "the-pilgrim-1923",
+      "title": "The Pilgrim",
+      "year": 1923,
+      "genre": "Silent",
+      "director": "Charles Chaplin",
+      "description": "Chaplin as an escaped convict posing as a pastor. Public domain.",
+      "archiveId": "the-pilgrim-1923-directed-by-charlie-chaplin",
+      "embedUrl": "https://archive.org/embed/the-pilgrim-1923-directed-by-charlie-chaplin"
+    },
+    {
+      "id": "a-woman-of-paris-1923",
+      "title": "A Woman of Paris",
+      "year": 1923,
+      "genre": "Silent",
+      "director": "Charles Chaplin",
+      "description": "Chaplin's serious drama. Public domain.",
+      "archiveId": "a-woman-of-paris-1923-hd-rip",
+      "embedUrl": "https://archive.org/embed/a-woman-of-paris-1923-hd-rip"
+    },
+    {
+      "id": "the-navigator-1924",
+      "title": "The Navigator",
+      "year": 1924,
+      "genre": "Silent",
+      "director": "Buster Keaton",
+      "description": "Keaton adrift on an empty ocean liner. Public domain.",
+      "archiveId": "the-navigator-keaton-1924-high-quality-1080p-fgo-qarunxf-q",
+      "embedUrl": "https://archive.org/embed/the-navigator-keaton-1924-high-quality-1080p-fgo-qarunxf-q"
+    },
+    {
+      "id": "seven-chances-1925",
+      "title": "Seven Chances",
+      "year": 1925,
+      "genre": "Silent",
+      "director": "Buster Keaton",
+      "description": "Keaton must marry by 7pm. Public domain.",
+      "archiveId": "my-movie_202208",
+      "embedUrl": "https://archive.org/embed/my-movie_202208"
+    },
+    {
+      "id": "battling-butler-1926",
+      "title": "Battling Butler",
+      "year": 1926,
+      "genre": "Silent",
+      "director": "Buster Keaton",
+      "description": "A milquetoast mistaken for a boxer. Keaton. Public domain.",
+      "archiveId": "buster-keaton-battling-butler-1926-1",
+      "embedUrl": "https://archive.org/embed/buster-keaton-battling-butler-1926-1"
+    },
+    {
+      "id": "steamboat-bill-jr-1928",
+      "title": "Steamboat Bill, Jr.",
+      "year": 1928,
+      "genre": "Silent",
+      "director": "Charles Reisner",
+      "description": "Keaton's cyclone climax. Public domain.",
+      "archiveId": "SteamboatBillJr",
+      "embedUrl": "https://archive.org/embed/SteamboatBillJr"
+    },
+    {
+      "id": "safety-last-1923",
+      "title": "Safety Last!",
+      "year": 1923,
+      "genre": "Silent",
+      "director": "Fred C. Newmeyer",
+      "description": "Harold Lloyd's clock-tower classic. Public domain.",
+      "archiveId": "SafetyLastHaroldLloyd1923.FullMovieexcellentQuality.",
+      "embedUrl": "https://archive.org/embed/SafetyLastHaroldLloyd1923.FullMovieexcellentQuality."
+    },
+    {
+      "id": "girl-shy-1924",
+      "title": "Girl Shy",
+      "year": 1924,
+      "genre": "Silent",
+      "director": "Fred C. Newmeyer",
+      "description": "Lloyd's shy tailor comedy. Public domain.",
+      "archiveId": "mymovie_20190804",
+      "embedUrl": "https://archive.org/embed/mymovie_20190804"
+    },
+    {
+      "id": "the-penalty-1920",
+      "title": "The Penalty",
+      "year": 1920,
+      "genre": "Silent",
+      "director": "Wallace Worsley",
+      "description": "A legless crime lord's revenge. Lon Chaney.",
+      "archiveId": "penalty_201902",
+      "embedUrl": "https://archive.org/embed/penalty_201902"
+    },
+    {
+      "id": "the-thief-of-bagdad-1924",
+      "title": "The Thief of Bagdad",
+      "year": 1924,
+      "genre": "Silent",
+      "director": "Raoul Walsh",
+      "description": "Douglas Fairbanks's Arabian fantasy. Public domain.",
+      "archiveId": "vidtb",
+      "embedUrl": "https://archive.org/embed/vidtb"
+    },
+    {
+      "id": "robin-hood-1922",
+      "title": "Robin Hood",
+      "year": 1922,
+      "genre": "Silent",
+      "director": "Allan Dwan",
+      "description": "Fairbanks's Robin Hood. Public domain.",
+      "archiveId": "Lbines-RetroVisionTheaterPresentsAnotherRobinHoodEpisode933-2",
+      "embedUrl": "https://archive.org/embed/Lbines-RetroVisionTheaterPresentsAnotherRobinHoodEpisode933-2"
+    },
+    {
+      "id": "the-three-musketeers-1921",
+      "title": "The Three Musketeers",
+      "year": 1921,
+      "genre": "Silent",
+      "director": "Fred Niblo",
+      "description": "Fairbanks's swashbuckler. Public domain.",
+      "archiveId": "the-three-musketeers_202501",
+      "embedUrl": "https://archive.org/embed/the-three-musketeers_202501"
+    },
+    {
+      "id": "don-q-son-of-zorro-1925",
+      "title": "Don Q, Son of Zorro",
+      "year": 1925,
+      "genre": "Silent",
+      "director": "Donald Crisp",
+      "description": "Fairbanks's Zorro sequel. Public domain.",
+      "archiveId": "DONQSONOFZORRO1925Part1Of2DouglasFairbanks",
+      "embedUrl": "https://archive.org/embed/DONQSONOFZORRO1925Part1Of2DouglasFairbanks"
+    },
+    {
+      "id": "the-black-pirate-1926",
+      "title": "The Black Pirate",
+      "year": 1926,
+      "genre": "Silent",
+      "director": "Albert Parker",
+      "description": "Fairbanks's pirate epic. Public domain.",
+      "archiveId": "TheBlackPirate1926DouglasFairbanksSRAndy",
+      "embedUrl": "https://archive.org/embed/TheBlackPirate1926DouglasFairbanksSRAndy"
+    },
+    {
+      "id": "the-eagle-1925",
+      "title": "The Eagle",
+      "year": 1925,
+      "genre": "Silent",
+      "director": "Clarence Brown",
+      "description": "Valentino's Russian Robin Hood. Public domain.",
+      "archiveId": "gov.archives.arc.2569874",
+      "embedUrl": "https://archive.org/embed/gov.archives.arc.2569874"
+    },
+    {
+      "id": "the-sheik-1921",
+      "title": "The Sheik",
+      "year": 1921,
+      "genre": "Silent",
+      "director": "George Melford",
+      "description": "Valentino's desert romance. Public domain.",
+      "archiveId": "TheSheik",
+      "embedUrl": "https://archive.org/embed/TheSheik"
+    },
+    {
+      "id": "blood-and-sand-1922",
+      "title": "Blood and Sand",
+      "year": 1922,
+      "genre": "Silent",
+      "director": "Fred Niblo",
+      "description": "Valentino's bullfighter tragedy. Public domain.",
+      "archiveId": "BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee",
+      "embedUrl": "https://archive.org/embed/BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee"
+    },
+    {
+      "id": "orphans-of-the-storm-1921",
+      "title": "Orphans of the Storm",
+      "year": 1921,
+      "genre": "Silent",
+      "director": "D.W. Griffith",
+      "description": "Griffith's French Revolution epic. Public domain.",
+      "archiveId": "ORPHANSOFTHESTORM1921D.W.GriffithLillianGishDorothyGish",
+      "embedUrl": "https://archive.org/embed/ORPHANSOFTHESTORM1921D.W.GriffithLillianGishDorothyGish"
+    },
+    {
+      "id": "the-ten-commandments-1923",
+      "title": "The Ten Commandments",
+      "year": 1923,
+      "genre": "Silent",
+      "director": "Cecil B. DeMille",
+      "description": "DeMille's silent biblical epic. Public domain.",
+      "archiveId": "cmodeal_gmail_Ncc",
+      "embedUrl": "https://archive.org/embed/cmodeal_gmail_Ncc"
+    },
+    {
+      "id": "dr-mabuse-the-gambler-1922",
+      "title": "Dr. Mabuse the Gambler",
+      "year": 1922,
+      "genre": "Silent",
+      "director": "Fritz Lang",
+      "description": "Fritz Lang's crime epic. Public domain.",
+      "archiveId": "Dr.MabuseTheGamblerdr.MabuseDerSpieler1922Part1",
+      "embedUrl": "https://archive.org/embed/Dr.MabuseTheGamblerdr.MabuseDerSpieler1922Part1"
+    },
+    {
+      "id": "faust-1926",
+      "title": "Faust",
+      "year": 1926,
+      "genre": "Silent",
+      "director": "F.W. Murnau",
+      "description": "Murnau's Faust. Public domain.",
+      "archiveId": "faust-1926-by-f.-w.-murnau",
+      "embedUrl": "https://archive.org/embed/faust-1926-by-f.-w.-murnau"
+    },
+    {
+      "id": "the-last-laugh-1924",
+      "title": "The Last Laugh",
+      "year": 1924,
+      "genre": "Silent",
+      "director": "F.W. Murnau",
+      "description": "Murnau's hotel doorman tragedy. Public domain.",
+      "archiveId": "the-last-laugh-restored-720p-hd",
+      "embedUrl": "https://archive.org/embed/the-last-laugh-restored-720p-hd"
+    },
+    {
+      "id": "the-golem-1920",
+      "title": "The Golem",
+      "year": 1920,
+      "genre": "Silent",
+      "director": "Paul Wegener",
+      "description": "The Golem of Prague. Paul Wegener. Public domain.",
+      "archiveId": "the.-golem.-1920",
+      "embedUrl": "https://archive.org/embed/the.-golem.-1920"
+    },
+    {
+      "id": "glen-or-glenda-1953",
+      "title": "Glen or Glenda",
+      "year": 1953,
+      "genre": "Drama",
+      "director": "Ed Wood",
+      "description": "Ed Wood's infamous plea for tolerance, starring Bela Lugosi and Wood himself.",
+      "archiveId": "BillSpragueCollectionGLENORGLENDAEDWOOD",
+      "embedUrl": "https://archive.org/embed/BillSpragueCollectionGLENORGLENDAEDWOOD"
+    },
+    {
+      "id": "the-jackie-robinson-story-1950",
+      "title": "The Jackie Robinson Story",
+      "year": 1950,
+      "genre": "Drama",
+      "director": "Alfred E. Green",
+      "description": "Jackie Robinson plays himself in his own life story.",
+      "archiveId": "jackie-rob-4-k",
+      "embedUrl": "https://archive.org/embed/jackie-rob-4-k"
+    },
+    {
+      "id": "the-violent-years-1956",
+      "title": "The Violent Years",
+      "year": 1956,
+      "genre": "Drama",
+      "director": "William Morgan",
+      "description": "Ed Wood-scripted juvenile delinquent drama.",
+      "archiveId": "TheViolentYears",
+      "embedUrl": "https://archive.org/embed/TheViolentYears"
+    },
+    {
+      "id": "marihuana-1936",
+      "title": "Marihuana",
+      "year": 1936,
+      "genre": "Drama",
+      "director": "Dwain Esper",
+      "description": "Dwain Esper's anti-marijuana exploitation drama.",
+      "archiveId": "marihuana-1936",
+      "embedUrl": "https://archive.org/embed/marihuana-1936"
+    },
+    {
+      "id": "maniac-1934",
+      "title": "Maniac",
+      "year": 1934,
+      "genre": "Drama",
+      "director": "Dwain Esper",
+      "description": "Dwain Esper's sideshow exploitation drama.",
+      "archiveId": "winter-cat-maid-maniac",
+      "embedUrl": "https://archive.org/embed/winter-cat-maid-maniac"
+    },
+    {
+      "id": "our-daily-bread-1934",
+      "title": "Our Daily Bread",
+      "year": 1934,
+      "genre": "Drama",
+      "director": "King Vidor",
+      "description": "King Vidor's Depression-era collective farm drama.",
+      "archiveId": "ODailyBread",
+      "embedUrl": "https://archive.org/embed/ODailyBread"
+    },
+    {
+      "id": "the-bob-mathias-story-1954",
+      "title": "The Bob Mathias Story",
+      "year": 1954,
+      "genre": "Drama",
+      "director": "Robert Rossen",
+      "description": "A boxer's story. Public domain drama.",
+      "archiveId": "the-bob-mathias-story-1954-edited",
+      "embedUrl": "https://archive.org/embed/the-bob-mathias-story-1954-edited"
+    },
+    {
+      "id": "the-lost-world-1925",
+      "title": "The Lost World",
+      "year": 1925,
+      "genre": "Adventure",
+      "director": "Harry O. Hoyt",
+      "description": "The first dinosaur epic. Willis O'Brien's stop-motion. Public domain.",
+      "archiveId": "TheLostWorldCompleteVideoQualityUpgrade",
+      "embedUrl": "https://archive.org/embed/TheLostWorldCompleteVideoQualityUpgrade"
+    },
+    {
+      "id": "captain-kidd-1945",
+      "title": "Captain Kidd",
+      "year": 1945,
+      "genre": "Adventure",
+      "director": "Rowland V. Lee",
+      "description": "A pirate adventure. Public domain.",
+      "archiveId": "CaptainKidd_",
+      "embedUrl": "https://archive.org/embed/CaptainKidd_"
+    },
+    {
+      "id": "the-lost-jungle-1934",
+      "title": "The Lost Jungle",
+      "year": 1934,
+      "genre": "Adventure",
+      "director": "Armand Schaefer",
+      "description": "A jungle serial. Mascot Pictures.",
+      "archiveId": "Lost_Jungle",
+      "embedUrl": "https://archive.org/embed/Lost_Jungle"
+    },
+    {
+      "id": "the-secret-of-treasure-island-1938",
+      "title": "The Secret of Treasure Island",
+      "year": 1938,
+      "genre": "Adventure",
+      "director": "Robert Gordon",
+      "description": "A treasure-island serial. Columbia.",
+      "archiveId": "chapter-01-the-isle-of-fear",
+      "embedUrl": "https://archive.org/embed/chapter-01-the-isle-of-fear"
+    },
+    {
+      "id": "the-mysterious-pilot-1937",
+      "title": "The Mysterious Pilot",
+      "year": 1937,
+      "genre": "Adventure",
+      "director": "Spencer Gordon Bennet",
+      "description": "A South Seas adventure serial.",
+      "archiveId": "chapter-13-the-net-tightens",
+      "embedUrl": "https://archive.org/embed/chapter-13-the-net-tightens"
+    },
+    {
+      "id": "the-desert-hawk-1944",
+      "title": "The Desert Hawk",
+      "year": 1944,
+      "genre": "Adventure",
+      "director": "John English",
+      "description": "An Arabian adventure serial.",
+      "archiveId": "chapter-01-the-twin-brothers",
+      "embedUrl": "https://archive.org/embed/chapter-01-the-twin-brothers"
+    },
+    {
+      "id": "the-marriage-circle-1924",
+      "title": "The Marriage Circle",
+      "year": 1924,
+      "genre": "Romance",
+      "director": "Ernst Lubitsch",
+      "description": "Lubitsch's society romance. Public domain.",
+      "archiveId": "silent-the-marriage-circle",
+      "embedUrl": "https://archive.org/embed/silent-the-marriage-circle"
+    },
+    {
+      "id": "the-spoilers-1942",
+      "title": "The Spoilers",
+      "year": 1942,
+      "genre": "Romance",
+      "director": "Ray Enright",
+      "description": "A frontier love story. Public domain.",
+      "archiveId": "the_spoilers_1942_202503",
+      "embedUrl": "https://archive.org/embed/the_spoilers_1942_202503"
+    },
+    {
+      "id": "the-steel-helmet-1951",
+      "title": "The Steel Helmet",
+      "year": 1951,
+      "genre": "War",
+      "director": "Samuel Fuller",
+      "description": "A Korean War infantry drama. Samuel Fuller.",
+      "archiveId": "the-steel-helmet-1951",
+      "embedUrl": "https://archive.org/embed/the-steel-helmet-1951"
+    },
+    {
+      "id": "westfront-1918-1930",
+      "title": "Westfront 1918",
+      "year": 1930,
+      "genre": "War",
+      "director": "G.W. Pabst",
+      "description": "German WWI trench drama. G.W. Pabst.",
+      "archiveId": "westfront.-1918.1930.720p.-blu-",
+      "embedUrl": "https://archive.org/embed/westfront.-1918.1930.720p.-blu-"
+    },
+    {
+      "id": "why-we-fight-prelude-to-war-1942",
+      "title": "Why We Fight: Prelude to War",
+      "year": 1942,
+      "genre": "Documentary",
+      "director": "Frank Capra",
+      "description": "U.S. government WWII documentary. Public domain.",
+      "archiveId": "PreludeToWar",
+      "embedUrl": "https://archive.org/embed/PreludeToWar"
+    },
+    {
+      "id": "why-we-fight-the-battle-of-russia-1943",
+      "title": "Why We Fight: The Battle of Russia",
+      "year": 1943,
+      "genre": "Documentary",
+      "director": "Frank Capra",
+      "description": "U.S. government WWII documentary. Public domain.",
+      "archiveId": "BattleOfRussiaI",
+      "embedUrl": "https://archive.org/embed/BattleOfRussiaI"
+    },
+    {
+      "id": "the-battle-of-san-pietro-1945",
+      "title": "The Battle of San Pietro",
+      "year": 1945,
+      "genre": "Documentary",
+      "director": "John Huston",
+      "description": "John Huston's WWII documentary. U.S. government public domain.",
+      "archiveId": "battle_of_san_pietro",
+      "embedUrl": "https://archive.org/embed/battle_of_san_pietro"
+    },
+    {
+      "id": "december-7th-1943",
+      "title": "December 7th",
+      "year": 1943,
+      "genre": "Documentary",
+      "director": "John Ford",
+      "description": "U.S. Navy WWII documentary. Public domain.",
+      "archiveId": "december-7th-1943-1080p",
+      "embedUrl": "https://archive.org/embed/december-7th-1943-1080p"
+    },
+    {
+      "id": "the-memphis-belle-1944",
+      "title": "The Memphis Belle",
+      "year": 1944,
+      "genre": "Documentary",
+      "director": "William Wyler",
+      "description": "U.S. government bomber documentary. Public domain.",
+      "archiveId": "MemphisBelle",
+      "embedUrl": "https://archive.org/embed/MemphisBelle"
+    },
+    {
+      "id": "death-mills-1945",
+      "title": "Death Mills",
+      "year": 1945,
+      "genre": "Documentary",
+      "director": "Billy Wilder",
+      "description": "U.S. government postwar documentary. Billy Wilder.",
+      "archiveId": "DeathMills",
+      "embedUrl": "https://archive.org/embed/DeathMills"
+    },
+    {
+      "id": "nanook-of-the-north-1922",
+      "title": "Nanook of the North",
+      "year": 1922,
+      "genre": "Documentary",
+      "director": "Robert Flaherty",
+      "description": "Flaherty's Arctic documentary classic. Public domain.",
+      "archiveId": "nanookOfTheNorth1922",
+      "embedUrl": "https://archive.org/embed/nanookOfTheNorth1922"
+    },
+    {
+      "id": "man-with-a-movie-camera-1929",
+      "title": "Man with a Movie Camera",
+      "year": 1929,
+      "genre": "Documentary",
+      "director": "Dziga Vertov",
+      "description": "Dziga Vertov's city symphony. Public domain.",
+      "archiveId": "ChelovekskinoapparatomManWithAMovieCamera",
+      "embedUrl": "https://archive.org/embed/ChelovekskinoapparatomManWithAMovieCamera"
+    },
+    {
+      "id": "grass-1925",
+      "title": "Grass",
+      "year": 1925,
+      "genre": "Documentary",
+      "director": "Merian C. Cooper",
+      "description": "Cooper and Schoedsack's grasslands documentary. Public domain.",
+      "archiveId": "d87cc7c1-2f3b-4cb5-9251-683ee52acb14",
+      "embedUrl": "https://archive.org/embed/d87cc7c1-2f3b-4cb5-9251-683ee52acb14"
+    },
+    {
+      "id": "chang-1927",
+      "title": "Chang",
+      "year": 1927,
+      "genre": "Documentary",
+      "director": "Merian C. Cooper",
+      "description": "Cooper and Schoedsack's jungle documentary. Public domain.",
+      "archiveId": "RaengChang20Dec2016",
+      "embedUrl": "https://archive.org/embed/RaengChang20Dec2016"
+    },
+    {
+      "id": "the-she-creature-1956",
+      "title": "The She Creature",
+      "year": 1956,
+      "genre": "Horror",
+      "director": "Edward L. Cahn",
+      "description": "A hypnotist's past-life regression unleashes a prehistoric monster.",
+      "archiveId": "theshecreature1956",
+      "embedUrl": "https://archive.org/embed/theshecreature1956"
+    },
+    {
+      "id": "the-vampire-1957",
+      "title": "The Vampire",
+      "year": 1957,
+      "genre": "Horror",
+      "director": "Paul Landres",
+      "description": "A doctor's experimental pills turn him into a vampire.",
+      "archiveId": "TheVampireDiaries6x9",
+      "embedUrl": "https://archive.org/embed/TheVampireDiaries6x9"
+    },
+    {
+      "id": "the-return-of-dracula-1958",
+      "title": "The Return of Dracula",
+      "year": 1958,
+      "genre": "Horror",
+      "director": "Paul Landres",
+      "description": "Dracula relocates to small-town California.",
+      "archiveId": "the-return-of-dracula-1958",
+      "embedUrl": "https://archive.org/embed/the-return-of-dracula-1958"
+    },
+    {
+      "id": "the-thing-that-couldn-t-die-1958",
+      "title": "The Thing That Couldn't Die",
+      "year": 1958,
+      "genre": "Horror",
+      "director": "Will Cowan",
+      "description": "A 400-year-old severed head. Will Cowan.",
+      "archiveId": "thing-that-couldnt-die-1958",
+      "embedUrl": "https://archive.org/embed/thing-that-couldnt-die-1958"
+    },
+    {
+      "id": "the-flame-barrier-1958",
+      "title": "The Flame Barrier",
+      "year": 1958,
+      "genre": "Horror",
+      "director": "Paul Landres",
+      "description": "A blob-like horror in the Mexican jungle.",
+      "archiveId": "theflamebarrier",
+      "embedUrl": "https://archive.org/embed/theflamebarrier"
+    },
+    {
+      "id": "the-monster-that-challenged-the-world-1957",
+      "title": "The Monster That Challenged the World",
+      "year": 1957,
+      "genre": "Horror",
+      "director": "Arnold Laven",
+      "description": "Giant mollusks in the Salton Sea.",
+      "archiveId": "monster-that-challenged-the-world-1957-colorized",
+      "embedUrl": "https://archive.org/embed/monster-that-challenged-the-world-1957-colorized"
+    },
+    {
+      "id": "the-crawling-hand-1963",
+      "title": "The Crawling Hand",
+      "year": 1963,
+      "genre": "Horror",
+      "director": "Herbert L. Strock",
+      "description": "An astronaut's severed arm goes on a strangling spree.",
+      "archiveId": "youtube-2xJRUsLs57o",
+      "embedUrl": "https://archive.org/embed/youtube-2xJRUsLs57o"
+    },
+    {
+      "id": "the-beach-girls-and-the-monster-1965",
+      "title": "The Beach Girls and the Monster",
+      "year": 1965,
+      "genre": "Horror",
+      "director": "Jon Hall",
+      "description": "A sea monster stalks surfers. Jon Hall.",
+      "archiveId": "TheBeachGirlsAndTheMonster",
+      "embedUrl": "https://archive.org/embed/TheBeachGirlsAndTheMonster"
+    },
+    {
+      "id": "curse-of-the-undead-1959",
+      "title": "Curse of the Undead",
+      "year": 1959,
+      "genre": "Horror",
+      "director": "Edward Dein",
+      "description": "A vampire gunfighter in the Old West.",
+      "archiveId": "turner_video_392405",
+      "embedUrl": "https://archive.org/embed/turner_video_392405"
+    },
+    {
+      "id": "the-hypnotic-eye-1960",
+      "title": "The Hypnotic Eye",
+      "year": 1960,
+      "genre": "Horror",
+      "director": "George Blair",
+      "description": "A hypnotist's stage show masks real horror.",
+      "archiveId": "TheHypnoticEyeEpisode2",
+      "embedUrl": "https://archive.org/embed/TheHypnoticEyeEpisode2"
+    },
+    {
+      "id": "the-devil-s-hand-1961",
+      "title": "The Devil's Hand",
+      "year": 1961,
+      "genre": "Horror",
+      "director": "Franklin Adreon",
+      "description": "A devil cult in Los Angeles.",
+      "archiveId": "TheDevilsHand1962",
+      "embedUrl": "https://archive.org/embed/TheDevilsHand1962"
+    },
+    {
+      "id": "the-brain-from-planet-arous-1957",
+      "title": "The Brain from Planet Arous",
+      "year": 1957,
+      "genre": "Sci-Fi",
+      "director": "Nathan Juran",
+      "description": "A giant alien brain possesses a scientist. Nathan Juran.",
+      "archiveId": "brain-from-planet-arous-colorized",
+      "embedUrl": "https://archive.org/embed/brain-from-planet-arous-colorized"
+    },
+    {
+      "id": "the-strange-world-of-planet-x-1958",
+      "title": "The Strange World of Planet X",
+      "year": 1958,
+      "genre": "Sci-Fi",
+      "director": "Robert Day",
+      "description": "Cosmic rays unleash horrors. British sci-fi.",
+      "archiveId": "TheStrangeWorldOfPlanetX1958",
+      "embedUrl": "https://archive.org/embed/TheStrangeWorldOfPlanetX1958"
+    },
+    {
+      "id": "the-day-the-sky-exploded-1958",
+      "title": "The Day the Sky Exploded",
+      "year": 1958,
+      "genre": "Sci-Fi",
+      "director": "Paolo Heusch",
+      "description": "Atomic tests go wrong. Italian-French sci-fi.",
+      "archiveId": "PaoloHeuschsTheDaySkyExploded1958Hq",
+      "embedUrl": "https://archive.org/embed/PaoloHeuschsTheDaySkyExploded1958Hq"
+    },
+    {
+      "id": "the-magic-sword-1962",
+      "title": "The Magic Sword",
+      "year": 1962,
+      "genre": "Sci-Fi",
+      "director": "Bert I. Gordon",
+      "description": "A magic sword vs. an evil wizard. Bert I. Gordon fantasy.",
+      "archiveId": "TheMagicSwordWidescreenQualityUpgrade",
+      "embedUrl": "https://archive.org/embed/TheMagicSwordWidescreenQualityUpgrade"
+    },
+    {
+      "id": "the-phantom-planet-1961",
+      "title": "The Phantom Planet",
+      "year": 1961,
+      "genre": "Sci-Fi",
+      "director": "William Marshall",
+      "description": "Astronauts stranded on an asteroid. William Marshall.",
+      "archiveId": "Phantom_Planet",
+      "embedUrl": "https://archive.org/embed/Phantom_Planet"
+    },
+    {
+      "id": "the-flight-that-disappeared-1961",
+      "title": "The Flight That Disappeared",
+      "year": 1961,
+      "genre": "Sci-Fi",
+      "director": "Reginald Le Borg",
+      "description": "A plane vanishes into a mysterious future.",
+      "archiveId": "THEFLIGHTTHATDISAPPEARED1961",
+      "embedUrl": "https://archive.org/embed/THEFLIGHTTHATDISAPPEARED1961"
+    },
+    {
+      "id": "the-red-menace-1949",
+      "title": "The Red Menace",
+      "year": 1949,
+      "genre": "Noir",
+      "director": "R.G. Springsteen",
+      "description": "Anti-communist noir. Republic Pictures.",
+      "archiveId": "trm00988752",
+      "embedUrl": "https://archive.org/embed/trm00988752"
+    },
+    {
+      "id": "the-daltons-women-1950",
+      "title": "The Daltons' Women",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Ford Beebe",
+      "description": "An ex-con's revenge. Public domain noir.",
+      "archiveId": "daltons-women-1950",
+      "embedUrl": "https://archive.org/embed/daltons-women-1950"
+    },
+    {
+      "id": "chain-gang-1950",
+      "title": "Chain Gang",
+      "year": 1950,
+      "genre": "Noir",
+      "director": "Lew Landers",
+      "description": "A prison drama noir. Public domain.",
+      "archiveId": "Pretenders_Back_On_The_Chain_Gang_svcd",
+      "embedUrl": "https://archive.org/embed/Pretenders_Back_On_The_Chain_Gang_svcd"
+    },
+    {
+      "id": "the-old-corral-1936",
+      "title": "The Old Corral",
+      "year": 1936,
+      "genre": "Western",
+      "director": "Joseph Kane",
+      "description": "Gene Autry's western. Public domain.",
+      "archiveId": "TheOldCorral",
+      "embedUrl": "https://archive.org/embed/TheOldCorral"
+    },
+    {
+      "id": "the-big-show-1936",
+      "title": "The Big Show",
+      "year": 1936,
+      "genre": "Western",
+      "director": "Joseph Kane",
+      "description": "Gene Autry's western. Public domain.",
+      "archiveId": "welcome-to-the-big-show",
+      "embedUrl": "https://archive.org/embed/welcome-to-the-big-show"
+    },
+    {
+      "id": "comin-round-the-mountain-1936",
+      "title": "Comin' Round the Mountain",
+      "year": 1936,
+      "genre": "Western",
+      "director": "Joseph Kane",
+      "description": "Gene Autry's western. Public domain.",
+      "archiveId": "comin-round-the-mountain_202206",
+      "embedUrl": "https://archive.org/embed/comin-round-the-mountain_202206"
+    },
+    {
+      "id": "mexican-hayride-1948",
+      "title": "Mexican Hayride",
+      "year": 1948,
+      "genre": "Comedy",
+      "director": "Charles Barton",
+      "description": "Abbott & Costello south of the border. Public domain.",
+      "archiveId": "abbott-and-costello-mexican-hayride",
+      "embedUrl": "https://archive.org/embed/abbott-and-costello-mexican-hayride"
+    },
+    {
+      "id": "spooks-run-wild-1941",
+      "title": "Spooks Run Wild",
+      "year": 1941,
+      "genre": "Comedy",
+      "director": "Wallace Fox",
+      "description": "East Side Kids horror-comedy. Monogram.",
+      "archiveId": "spooks_run_wild",
+      "embedUrl": "https://archive.org/embed/spooks_run_wild"
+    },
+    {
+      "id": "ghosts-on-the-loose-1943",
+      "title": "Ghosts on the Loose",
+      "year": 1943,
+      "genre": "Comedy",
+      "director": "Wallace Fox",
+      "description": "East Side Kids meet Bela Lugosi. Monogram.",
+      "archiveId": "GhostsontheLoose",
+      "embedUrl": "https://archive.org/embed/GhostsontheLoose"
+    },
+    {
+      "id": "the-bowery-boys-meet-the-monsters-1954",
+      "title": "The Bowery Boys Meet the Monsters",
+      "year": 1954,
+      "genre": "Comedy",
+      "director": "Edward Bernds",
+      "description": "Bowery Boys horror-comedy. Allied Artists.",
+      "archiveId": "the-bowery-boys-meet-the-monsters-1954",
+      "embedUrl": "https://archive.org/embed/the-bowery-boys-meet-the-monsters-1954"
+    },
+    {
+      "id": "ghost-chasers-1951",
+      "title": "Ghost Chasers",
+      "year": 1951,
+      "genre": "Comedy",
+      "director": "William Beaudine",
+      "description": "Bowery Boys ghost hunt. Monogram.",
+      "archiveId": "goober-and-the-ghost-chasers_cartoon",
+      "embedUrl": "https://archive.org/embed/goober-and-the-ghost-chasers_cartoon"
+    },
+    {
+      "id": "up-in-smoke-1957",
+      "title": "Up in Smoke",
+      "year": 1957,
+      "genre": "Comedy",
+      "director": "William Beaudine",
+      "description": "Bowery Boys final film. Monogram.",
+      "archiveId": "GoneUpInSmoke",
+      "embedUrl": "https://archive.org/embed/GoneUpInSmoke"
+    },
+    {
+      "id": "the-gaucho-1927",
+      "title": "The Gaucho",
+      "year": 1927,
+      "genre": "Silent",
+      "director": "F. Richard Jones",
+      "description": "Fairbanks's South American adventure. Public domain.",
+      "archiveId": "the-gaucho_1928",
+      "embedUrl": "https://archive.org/embed/the-gaucho_1928"
+    },
+    {
+      "id": "the-iron-mask-1929",
+      "title": "The Iron Mask",
+      "year": 1929,
+      "genre": "Silent",
+      "director": "Allan Dwan",
+      "description": "Fairbanks's final silent. Public domain.",
+      "archiveId": "iron_mask",
+      "embedUrl": "https://archive.org/embed/iron_mask"
+    },
+    {
+      "id": "monsieur-beaucaire-1924",
+      "title": "Monsieur Beaucaire",
+      "year": 1924,
+      "genre": "Silent",
+      "director": "Sidney Olcott",
+      "description": "Valentino's French romance. Public domain.",
+      "archiveId": "monsieur-beaucaire-paramount-1924",
+      "embedUrl": "https://archive.org/embed/monsieur-beaucaire-paramount-1924"
+    },
+    {
+      "id": "the-true-glory-1945",
+      "title": "The True Glory",
+      "year": 1945,
+      "genre": "Documentary",
+      "director": "Carol Reed",
+      "description": "U.S./UK WWII documentary. Public domain.",
+      "archiveId": "TheTrueGloryRestored",
+      "embedUrl": "https://archive.org/embed/TheTrueGloryRestored"
+    },
+    {
+      "id": "tunisian-victory-1944",
+      "title": "Tunisian Victory",
+      "year": 1944,
+      "genre": "Documentary",
+      "director": "Frank Capra",
+      "description": "U.S./UK WWII documentary. Public domain.",
+      "archiveId": "TunisianVictory1944",
+      "embedUrl": "https://archive.org/embed/TunisianVictory1944"
+    },
+    {
+      "id": "desert-victory-1943",
+      "title": "Desert Victory",
+      "year": 1943,
+      "genre": "Documentary",
+      "director": "Roy Boulting",
+      "description": "UK WWII documentary. Public domain.",
+      "archiveId": "DesertVictory",
+      "embedUrl": "https://archive.org/embed/DesertVictory"
+    }
+  ],
+  "shows": [
+    {
+      "id": "the-beverly-hillbillies",
+      "showTitle": "The Beverly Hillbillies",
+      "genre": "Comedy",
+      "description": "The Clampetts strike oil and move to Beverly Hills. Early episodes lapsed into public domain.",
+      "episodes": [
+        {
+          "id": "the-clampetts-strike-oil-beverly-hillbillies",
+          "title": "The Clampetts Strike Oil",
+          "seasonEpisode": "S01E01",
+          "year": 1962,
+          "archiveId": "Beverly_Hillbillies_Ep01_The_Clampetts_Strike_Oil",
+          "embedUrl": "https://archive.org/embed/Beverly_Hillbillies_Ep01_The_Clampetts_Strike_Oil"
+        },
+        {
+          "id": "getting-settled-beverly-hillbillies",
+          "title": "Getting Settled",
+          "seasonEpisode": "S01E02",
+          "year": 1962,
+          "archiveId": "Beverly_Hillbillies_Ep02_Getting_Settled",
+          "embedUrl": "https://archive.org/embed/Beverly_Hillbillies_Ep02_Getting_Settled"
+        },
+        {
+          "id": "the-clampetts-meet-mrs-drysdale-thebeverlyhillbillie",
+          "title": "The Clampetts Meet Mrs. Drysdale",
+          "seasonEpisode": "",
+          "year": 1962,
+          "archiveId": "thebeverlyhillbilliestheclampettsmeetmrsdrysdalehq",
+          "embedUrl": "https://archive.org/embed/thebeverlyhillbilliestheclampettsmeetmrsdrysdalehq"
+        },
+        {
+          "id": "the-hillbillies-of-beverly-hills-unaired-pilot-the-hillbillies-of-b",
+          "title": "The Hillbillies of Beverly Hills (Unaired Pilot)",
+          "seasonEpisode": "",
+          "year": 1962,
+          "archiveId": "the-hillbillies-of-beverly-hills-unaired-pilot-episode-for-the-beverly-hillbillies-1962",
+          "embedUrl": "https://archive.org/embed/the-hillbillies-of-beverly-hills-unaired-pilot-episode-for-the-beverly-hillbillies-1962"
+        }
+      ]
+    },
+    {
+      "id": "bonanza",
+      "showTitle": "Bonanza",
+      "genre": "Western",
+      "description": "The Cartwrights ride the Ponderosa. Early episodes lapsed into public domain.",
+      "episodes": [
+        {
+          "id": "bitter-water-bonanza-bitterwater",
+          "title": "Bitter Water",
+          "seasonEpisode": "S01E29",
+          "year": 1960,
+          "archiveId": "Bonanza-BitterWater",
+          "embedUrl": "https://archive.org/embed/Bonanza-BitterWater"
+        },
+        {
+          "id": "the-trail-gang-bonanza-the-trail",
+          "title": "The Trail Gang",
+          "seasonEpisode": "",
+          "year": 1960,
+          "archiveId": "Bonanza_-_The_Trail_Gang",
+          "embedUrl": "https://archive.org/embed/Bonanza_-_The_Trail_Gang"
+        },
+        {
+          "id": "day-of-reckoning-bonanza-day-of-rec",
+          "title": "Day of Reckoning",
+          "seasonEpisode": "",
+          "year": 1960,
+          "archiveId": "Bonanza_-_Day_Of_Reckoning",
+          "embedUrl": "https://archive.org/embed/Bonanza_-_Day_Of_Reckoning"
+        },
+        {
+          "id": "the-fear-merchants-bonanza-thefearmerch",
+          "title": "The Fear Merchants",
+          "seasonEpisode": "",
+          "year": 1960,
+          "archiveId": "Bonanza-TheFearMerchants",
+          "embedUrl": "https://archive.org/embed/Bonanza-TheFearMerchants"
+        },
+        {
+          "id": "the-spitfire-bonanza-the-spitfi",
+          "title": "The Spitfire",
+          "seasonEpisode": "",
+          "year": 1960,
+          "archiveId": "Bonanza_-_The_Spitfire",
+          "embedUrl": "https://archive.org/embed/Bonanza_-_The_Spitfire"
+        }
+      ]
+    },
+    {
+      "id": "petticoat-junction",
+      "showTitle": "Petticoat Junction",
+      "genre": "Comedy",
+      "description": "The Shady Rest Hotel crew. Many early episodes are public domain.",
+      "episodes": [
+        {
+          "id": "bobbie-jo-and-the-beatnik-petticoatjunction",
+          "title": "Bobbie Jo and the Beatnik",
+          "seasonEpisode": "S01E16",
+          "year": 1964,
+          "archiveId": "PetticoatJunction",
+          "embedUrl": "https://archive.org/embed/PetticoatJunction"
+        },
+        {
+          "id": "spur-line-to-shady-rest-pj-spurline",
+          "title": "Spur Line to Shady Rest",
+          "seasonEpisode": "",
+          "year": 1963,
+          "archiveId": "PJ_Spurline",
+          "embedUrl": "https://archive.org/embed/PJ_Spurline"
+        },
+        {
+          "id": "a-night-at-the-hooterville-hilton-pj-hootervillehilton",
+          "title": "A Night at the Hooterville Hilton",
+          "seasonEpisode": "",
+          "year": 1963,
+          "archiveId": "PJ_HootervilleHilton",
+          "embedUrl": "https://archive.org/embed/PJ_HootervilleHilton"
+        }
+      ]
+    },
+    {
+      "id": "dragnet",
+      "showTitle": "Dragnet",
+      "genre": "Crime",
+      "description": "Jack Webb's deadpan police procedural. Early 1950s episodes are public domain.",
+      "episodes": [
+        {
+          "id": "the-big-september-man-dragnetthebigseptemb",
+          "title": "The Big September Man",
+          "seasonEpisode": "S01E11",
+          "year": 1952,
+          "archiveId": "DragnetTheBigSeptemberManSeason1Episode11May81952",
+          "embedUrl": "https://archive.org/embed/DragnetTheBigSeptemberManSeason1Episode11May81952"
+        },
+        {
+          "id": "the-big-hit-run-killer-dragnetthebighitrunk",
+          "title": "The Big Hit-Run Killer",
+          "seasonEpisode": "S03E29",
+          "year": 1954,
+          "archiveId": "DragnetTheBigHitRunKiller",
+          "embedUrl": "https://archive.org/embed/DragnetTheBigHitRunKiller"
+        },
+        {
+          "id": "the-big-no-rain-dragnet-big-no-rain",
+          "title": "The Big No Rain",
+          "seasonEpisode": "",
+          "year": 1952,
+          "archiveId": "dragnet_big_no_rain_complete_episode_youtube_67_171_158",
+          "embedUrl": "https://archive.org/embed/dragnet_big_no_rain_complete_episode_youtube_67_171_158"
+        },
+        {
+          "id": "the-big-family-dragnet-the-big-fami",
+          "title": "The Big Family",
+          "seasonEpisode": "",
+          "year": 1952,
+          "archiveId": "dragnet_the_big_family_new_complete_episode_youtube_67_171_158",
+          "embedUrl": "https://archive.org/embed/dragnet_the_big_family_new_complete_episode_youtube_67_171_158"
+        },
+        {
+          "id": "the-big-seventeen-dragnetepisode18theb",
+          "title": "The Big Seventeen",
+          "seasonEpisode": "",
+          "year": 1952,
+          "archiveId": "DragnetEpisode18TheBigSeventeenwcommercials",
+          "embedUrl": "https://archive.org/embed/DragnetEpisode18TheBigSeventeenwcommercials"
+        },
+        {
+          "id": "the-human-bomb-dragnetthehumanbomb",
+          "title": "The Human Bomb",
+          "seasonEpisode": "",
+          "year": 1951,
+          "archiveId": "DragnetTheHumanBomb",
+          "embedUrl": "https://archive.org/embed/DragnetTheHumanBomb"
+        },
+        {
+          "id": "the-big-actor-dragnetthebigactor",
+          "title": "The Big Actor",
+          "seasonEpisode": "",
+          "year": 1952,
+          "archiveId": "DragnetTheBigActor",
+          "embedUrl": "https://archive.org/embed/DragnetTheBigActor"
+        },
+        {
+          "id": "the-big-string-dragnet1951",
+          "title": "The Big String",
+          "seasonEpisode": "",
+          "year": 1951,
+          "archiveId": "Dragnet1951",
+          "embedUrl": "https://archive.org/embed/Dragnet1951"
+        },
+        {
+          "id": "christmas-episode-dragnetchristmastvep",
+          "title": "Christmas Episode",
+          "seasonEpisode": "",
+          "year": 1952,
+          "archiveId": "DragnetChristmasTVEP",
+          "embedUrl": "https://archive.org/embed/DragnetChristmasTVEP"
+        }
+      ]
+    },
+    {
+      "id": "the-lone-ranger",
+      "showTitle": "The Lone Ranger",
+      "genre": "Western",
+      "description": "The masked rider of the plains. Early TV episodes are public domain.",
+      "episodes": [
+        {
+          "id": "enter-the-lone-ranger-theloneranger1x01",
+          "title": "Enter the Lone Ranger",
+          "seasonEpisode": "S01E01",
+          "year": 1949,
+          "archiveId": "TheLoneRanger1X01",
+          "embedUrl": "https://archive.org/embed/TheLoneRanger1X01"
+        },
+        {
+          "id": "cannonball-mckay-theloneranger-cannon",
+          "title": "Cannonball McKay",
+          "seasonEpisode": "",
+          "year": 1949,
+          "archiveId": "TheLoneRanger-CannonballMcKay",
+          "embedUrl": "https://archive.org/embed/TheLoneRanger-CannonballMcKay"
+        },
+        {
+          "id": "the-legion-of-old-timers-legionofoldtimers194",
+          "title": "The Legion of Old Timers",
+          "seasonEpisode": "",
+          "year": 1949,
+          "archiveId": "LegionOfOldTimers1949",
+          "embedUrl": "https://archive.org/embed/LegionOfOldTimers1949"
+        },
+        {
+          "id": "old-joe-s-sister-thelonerangeroldjoes",
+          "title": "Old Joe's Sister",
+          "seasonEpisode": "",
+          "year": 1949,
+          "archiveId": "TheLoneRangerOldJoesSister",
+          "embedUrl": "https://archive.org/embed/TheLoneRangerOldJoesSister"
+        }
+      ]
+    },
+    {
+      "id": "sherlock-holmes-1954",
+      "showTitle": "Sherlock Holmes",
+      "genre": "Mystery",
+      "description": "Ronald Howard as Holmes in the 1954 TV series. Public domain.",
+      "episodes": [
+        {
+          "id": "the-case-of-lady-beryl-sherlockholmes-theca",
+          "title": "The Case of Lady Beryl",
+          "seasonEpisode": "",
+          "year": 1954,
+          "archiveId": "SherlockHolmes-TheCaseofLadyBeryl",
+          "embedUrl": "https://archive.org/embed/SherlockHolmes-TheCaseofLadyBeryl"
+        },
+        {
+          "id": "the-case-of-the-pennsylvania-gun-sherlockholmes-theca",
+          "title": "The Case of the Pennsylvania Gun",
+          "seasonEpisode": "",
+          "year": 1954,
+          "archiveId": "SherlockHolmes-TheCaseofthePennsylvaniaGun",
+          "embedUrl": "https://archive.org/embed/SherlockHolmes-TheCaseofthePennsylvaniaGun"
+        },
+        {
+          "id": "the-case-of-the-winthrop-legend-sherlockholmes-theca",
+          "title": "The Case of the Winthrop Legend",
+          "seasonEpisode": "",
+          "year": 1954,
+          "archiveId": "SherlockHolmes-TheCaseOfTheWinthropLegend",
+          "embedUrl": "https://archive.org/embed/SherlockHolmes-TheCaseOfTheWinthropLegend"
+        },
+        {
+          "id": "the-mother-hubbard-case-sherlockholmes-themo",
+          "title": "The Mother Hubbard Case",
+          "seasonEpisode": "",
+          "year": 1954,
+          "archiveId": "SherlockHolmes-TheMotherHubbardCase",
+          "embedUrl": "https://archive.org/embed/SherlockHolmes-TheMotherHubbardCase"
+        },
+        {
+          "id": "the-case-of-the-split-ticket-sherlock-holmes-tcot",
+          "title": "The Case of the Split Ticket",
+          "seasonEpisode": "",
+          "year": 1954,
+          "archiveId": "Sherlock_Holmes_TCOT_Split_Ticket",
+          "embedUrl": "https://archive.org/embed/Sherlock_Holmes_TCOT_Split_Ticket"
+        }
+      ]
+    },
+    {
+      "id": "dick-tracy-1937",
+      "showTitle": "Dick Tracy",
+      "genre": "Crime",
+      "description": "Ralph Byrd as the comic-strip detective in the 1937 Republic serial, chapter by chapter.",
+      "episodes": [
+        {
+          "id": "chapter-1-the-spider-strikes-movieserial-dicktrac",
+          "title": "Chapter 1: The Spider Strikes",
+          "seasonEpisode": "Ch.1",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter01TheSpiderStrikes",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter01TheSpiderStrikes"
+        },
+        {
+          "id": "chapter-2-the-bridge-of-terror-movieserial-dicktrac",
+          "title": "Chapter 2: The Bridge of Terror",
+          "seasonEpisode": "Ch.2",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter02TheBridgeOfTerror",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter02TheBridgeOfTerror"
+        },
+        {
+          "id": "chapter-3-the-fur-pirates-movieserial-dicktrac",
+          "title": "Chapter 3: The Fur Pirates",
+          "seasonEpisode": "Ch.3",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter03TheFurPirates",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter03TheFurPirates"
+        },
+        {
+          "id": "chapter-4-death-rides-the-sky-movieserial-dicktrac",
+          "title": "Chapter 4: Death Rides the Sky",
+          "seasonEpisode": "Ch.4",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter04DeathRideTheSky",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter04DeathRideTheSky"
+        },
+        {
+          "id": "chapter-5-brother-against-brother-movieserial-dicktrac",
+          "title": "Chapter 5: Brother Against Brother",
+          "seasonEpisode": "Ch.5",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter05BrotherAgainstBrother",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter05BrotherAgainstBrother"
+        },
+        {
+          "id": "chapter-7-the-ghost-town-mystery-movieserial-dicktrac",
+          "title": "Chapter 7: The Ghost Town Mystery",
+          "seasonEpisode": "Ch.7",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter07TheGhostTownMystery",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter07TheGhostTownMystery"
+        },
+        {
+          "id": "chapter-8-battle-in-the-clouds-movieserial-dicktrac",
+          "title": "Chapter 8: Battle in the Clouds",
+          "seasonEpisode": "Ch.8",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter08BattleInTheClouds",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter08BattleInTheClouds"
+        },
+        {
+          "id": "chapter-9-the-stratosphere-adventure-movieserial-dicktracy1938ch",
+          "title": "Chapter 9: The Stratosphere Adventure",
+          "seasonEpisode": "Ch.9",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter09TheStratosphereAdventure",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter09TheStratosphereAdventure"
+        },
+        {
+          "id": "chapter-10-the-gold-ship-movieserial-dicktrac",
+          "title": "Chapter 10: The Gold Ship",
+          "seasonEpisode": "Ch.10",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter10TheGoldShip",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter10TheGoldShip"
+        },
+        {
+          "id": "chapter-11-harbor-pursuits-movieserial-dicktrac",
+          "title": "Chapter 11: Harbor Pursuits",
+          "seasonEpisode": "Ch.11",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter11HarborPursuits",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter11HarborPursuits"
+        },
+        {
+          "id": "chapter-12-the-trail-of-the-spider-movieserial-dicktrac",
+          "title": "Chapter 12: The Trail of the Spider",
+          "seasonEpisode": "Ch.12",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter12TheTrailOfTheSpider",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter12TheTrailOfTheSpider"
+        },
+        {
+          "id": "chapter-13-the-fire-trap-movieserial-dicktracy1938ch",
+          "title": "Chapter 13: The Fire Trap",
+          "seasonEpisode": "Ch.13",
+          "year": 1937,
+          "archiveId": "MovieSerial-DickTracy1938Chapter13TheFireTrap",
+          "embedUrl": "https://archive.org/embed/MovieSerial-DickTracy1938Chapter13TheFireTrap"
+        }
+      ]
+    },
+    {
+      "id": "the-andy-griffith-show",
+      "showTitle": "The Andy Griffith Show",
+      "genre": "Comedy",
+      "description": "Mayberry's finest. Select early episodes are public domain.",
+      "episodes": [
+        {
+          "id": "the-new-housekeeper-james-best-on-andy-g",
+          "title": "The New Housekeeper",
+          "seasonEpisode": "S01E03",
+          "year": 1960,
+          "archiveId": "james-best-on-andy-griffith-show-1960-episode-3",
+          "embedUrl": "https://archive.org/embed/james-best-on-andy-griffith-show-1960-episode-3"
+        }
+      ]
+    }
+  ]
+}
